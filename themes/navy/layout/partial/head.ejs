@@ -7,7 +7,16 @@
 
     <!-- Page Meta -->
     <title><% if (page.title) { %><%= page.title %><% } %></title>
-    <% if (page.description) { %><meta name="description" content="<%= page.description %>" /><% } %>
+    <meta property="og:site_name" content="Living Work" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="<%= page.title %>" />
+    <meta property="og:image" content="<%= config.url %>/img/curves_ahead.jpg" />
+    <meta property="og:description" content="This is the house of Love, which has no bound nor end." />
+    <meta property="og:url" content="<%= page.permalink %>" />
+    <meta property="og:image:width" content="284" />
+    <meta property="og:image:height" content="213" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@cryptowanderer" />
 
     <!-- Mobile Meta -->
     <meta name="HandheldFriendly" content="True" />
@@ -15,24 +24,6 @@
 
     <!-- favicon -->
     <link rel="icon" type="image/png" href="/img/favicon.png">
-    <link rel="manifest" href="/img/favicon/manifest.json">
-    <meta name="msapplication-TileColor" content="#4360DF">
-    <meta name="theme-color" content="#4360DF">
-
-    <meta property="og:site_name" content="Merry Merkle" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="<% if (page.title) { %>- <%= page.title %><% } %>" />
-    <% if (page.description) { %><meta property="og:description" content="<%= page.description %>" /><% } %>
-    <meta property="og:url" content="<%= page.permalink %>" />
-    <% if (page.layout) { %><meta property="og:image" content="<%= config.url %>/img/shahada.png" /><% } %>
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="<% if (page.title) { %>- <%= page.title %><% } %>" />
-    <% if (page.description) { %><meta property="twitter:description" content="<%= page.description %>" /><% } %>
-    <meta name="twitter:url" content="<%= page.permalink %>" />
-    <% if (page.layout) { %><meta property="twitter:image" content="<%= config.url %>/img/shahada.png" /><% } %>
-    <meta name="twitter:site" content="@cryptowanderer" />
-    <meta property="og:image:width" content="388" />
-    <meta property="og:image:height" content="400" />
 
     <!-- Styles'n'Scripts -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/monokai-sublime.min.css">

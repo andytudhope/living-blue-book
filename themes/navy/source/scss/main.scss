@@ -1,10 +1,10 @@
 @import "vars";
 
 ::selection {
-    background: rgba( $purple, .5 );
+    background: rgba( $blue, .5 );
 }
 ::-moz-selection {
-    background: rgba( $purple, .5 );
+    background: rgba( $blue, .5 );
 }
 
 body{
@@ -41,10 +41,6 @@ p{
     line-height: 27px;
 }
 
-sup {
-    color: #5A28C6;
-}
-
 .p-large{
     line-height: 31px;
     font-size: 18px;
@@ -58,7 +54,6 @@ sup {
 .teaser-2{
     line-height: 36px;
     font-size: 24px;
-    color: #5A28C6;
     font-family: $manrope;
     font-weight: $manrope-medium;
     margin-bottom: 50px;
@@ -66,9 +61,14 @@ sup {
     text-align: center;
 }
 
+.teaser-1 {
+    color: $light-grey;
+}
+
 .teaser-2{
     line-height: 32px;
     font-size: 20px;
+    color: $dark-green;
 }
 
 svg{
@@ -81,7 +81,7 @@ a{
     color: $black;
     transition: all .3s ease;
     &:hover{
-        color: $dark-purple;
+        color: $green;
     }
 }
 
@@ -258,35 +258,19 @@ h4{
     }
 }
 
-.btn-purple{
-    color: $dark-purple;
-    border: 1px solid $dark-purple;
+.btn-green{
+    color: $green;
+    border: 1px solid $green;
     &:hover{
         color: $white;
-        background: $dark-purple;
-        border: 1px solid $dark-purple;
+        background: $green;
+        border: 1px solid $green;
     }
     &:active,
     &:focus{
-        color: $dark-purple;
-        border: 1px solid $dark-purple;
+        color: $green;
+        border: 1px solid $green;
         background-color: transparent;
-    }
-}
-
-.btn-purple-fill{
-    background-color: $purple;
-    border: 1px solid $purple;
-    color: $white;
-    &:hover{
-        background: $dark-purple;
-    }
-    &:active,
-    &:focus{
-        background: $purple;
-        color: $white;
-        border: 1px solid $purple;
-        box-shadow: 0 0 0 2px rgba($purple,.25);
     }
 }
 
@@ -345,12 +329,6 @@ h4{
         &:active:after,
         &:focus:after{
             background-image: url('../img/icon-arrow-right-black.svg');
-        }
-    }
-    &.btn-purple-fill{
-        &:active:hover:after,
-        &:focus:hover:after{
-            background-image: url('../img/icon-arrow-right-white.svg');
         }
     }
     &.btn-fill{
@@ -470,7 +448,7 @@ h4{
 
 .rotating-circle {
     border-radius: 50%;
-    border: 2px solid #5A28C6;
+    border: 2px solid $light-green;
     height: 256px;
     width: 256px;
     -webkit-animation:rotate3d 8s linear infinite;
@@ -490,47 +468,46 @@ h4{
  }
 
 .circles-col {
-     margin: 150px 0;
+     margin: 0px auto 360px;
 }
 
 .rc-2 {
     margin-top: -256px;
     margin-left: 128px;
-    border: 2px solid #D73CDF;
+    border: 2px solid $gold;
 }
 
 .rc-3 {
     margin-top: -256px;
     margin-left: 256px;
-    border: 2px solid #9600DD;
+    border: 2px solid $green;
 }
 
 .rc-4 {
     margin-top: -132px;
-    margin-left: 50px;
-    border: 2px solid #C700D7;
+    margin-left: 38px;
+    border: 2px solid $dark-green;
 }
 
 .rc-5 {
     margin-top: -256px;
-    margin-left: 200px;
-    border: 2px solid #A91DD0;
+    margin-left: 218px;
+    border: 2px solid #83FF00;
 }
 
 .rc-6 {
     margin-top: -512px;
-    margin-left: 200px;
-    border: 2px solid #A91DD0;
+    margin-left: 218px;
+    border: 2px solid #3AFF00;
 }
 
 .rc-7 {
     margin-top: -256px;
-    margin-left: 50px;
-    border: 2px solid #A91DD0;
+    margin-left: 38px;
+    border: 2px solid #00A500;
 }
 
-.col-dark-grey,
-.col-grey{
+.col-color{
     position: relative;
     &:before{
         content: '';
@@ -548,12 +525,22 @@ h4{
     }
 }
 
-.col-grey:before{
-    background-image: radial-gradient(circle, #8F00DB, #A900DB, #D071E7);
+.home-link {
+    color: $light-grey;
+    font-size: 12px;
+    text-align: center;
+    width: 100%;
+    &.hover{
+            color: $green;
+    }
+}
+
+.col-color:before{
+    background-image: radial-gradient(circle, #0843D8, $dark-green, $green);
     color: $white;
 }
 
-.col-grey{
+.col-color{
     color: $white;
     h1, h2, h3, h4, h5, h6{
         color: $black;
@@ -592,6 +579,7 @@ header{
     nav{
         margin-top: -30px;
         margin-bottom: -30px;
+        margin-left: -120px;
         display: flex;
         align-items: center;
         ul{
@@ -607,7 +595,7 @@ header{
                 align-self: stretch;
                 &.active{
                     a{
-                        color: $dark-purple;
+                        color: $dark-green;
                     }
                 }
                 &.has-submenu{
@@ -691,7 +679,7 @@ header{
                                 width: 50%;
                                 a{
                                     padding: 10px 20px 10px 0;
-                                    color: $dark-purple;
+                                    color: $dark-green;
                                     font-family: $manrope;
                                     font-weight: $manrope-semi-bold;
                                     &:before{
@@ -756,7 +744,7 @@ header{
                 }
                 &:hover{
                     a{
-                        color: $dark-purple;
+                        color: $dark-green;
                         .arrow{
                             transform: rotate(180deg);
                         }
@@ -953,19 +941,15 @@ footer{
 /*-----HOME-----*/
 
 .home-intro{
-    padding-top: 80px;
+    padding: 80px 0px 0px;
     .inner{
         padding: 30px 0;
-    }
-    img{
-        margin: 160px 0px 160px -250px;
-        max-width: 900px;
     }
 }
 
 .section-1-left{
     .inner{
-        padding: 100px 0;
+        padding: 40px 0;
         .teaser-2{
             margin-bottom: 20px;
         }
@@ -1044,6 +1028,10 @@ footer{
 .resp-iframe-donate {
   height: 320px;
   width: 600px;
+}
+
+canvas {
+    width: 100%;
 }
 
 /*==== Doc Pages ----*/
@@ -1127,7 +1115,7 @@ footer{
 }
 
 .stripe{
-    background: radial-gradient(circle, #D071E7, #A900DB, #8F00DB);
+    background: radial-gradient(circle, #0843D8, $green, $dark-green);
     display: flex;
     align-items: center;
     padding: 0 40px;
@@ -1150,47 +1138,42 @@ footer{
         list-style-type: none;
         margin: 0;
         padding: 0;
-        li{
-            margin-bottom: 20px;
-            &.active{
-                a{
-                    color: $purple;
-                }
-                .sidebar-submenu{
-                    display: block;
-                }
-            }
-            a{
+        li {
+            font-weight: $ibm-plex-sans-regular;
+            margin: 15px 0px;
+
+            a {
                 color: $black;
-                font-weight: $ibm-plex-sans-medium;
                 img{
                     margin-left: 10px;
                 }
             }
-            .sidebar-submenu{
-                list-style-type: none;
-                margin-top: 20px;
-                padding-left: 20px;
+
+            ul {
                 display: none;
-                li{
-                    margin-bottom: 10px;
-                    height:48px;
-                    &.active{
-                        a{
-                            color: $purple;
-                            font-weight: $ibm-plex-sans-medium;
-                        }
-                    }
-                    a{
-                        font-size: 15px;
-                        font-weight: $ibm-plex-sans-regular;
-                        color: $black;
-                        img{
-                            margin-left: 15px;
-                        }
-                    }
-                }
             }
+        }
+
+        >li {
+            margin-bottom: 20px;
+            font-weight: $ibm-plex-sans-medium;
+        }
+
+        li.active>a {
+            color: $green;
+            font-weight: $ibm-plex-sans-medium;
+        }
+
+        li.active {
+            ul {
+                display: block;
+            }
+        }
+
+        .sidebar-submenu{
+            list-style-type: none;
+            padding-left: 20px;
+            font-size: 15px;
         }
     }
 }
@@ -1254,11 +1237,11 @@ footer{
             }
         }
         a{
-            color: $purple;
+            color: $green;
             font-weight: $ibm-plex-sans-medium;
             text-decoration: underline;
             &:hover{
-                color: $dark-purple;
+                color: $dark-green;
             }
         }
         strong, b{
@@ -1311,6 +1294,16 @@ footer{
     margin-top: 90px;
 }
 
+.article-footer-prev {
+    position: absolute;
+    left: 15px;
+}
+
+.article-footer-next {
+    position: absolute;
+    right: 15px;
+}
+
 .page-content{
     p + h1,
     p + h2,
@@ -1359,7 +1352,7 @@ footer{
         h6{
             font-weight: bold;
             padding: 20px;
-            background: $purple;
+            background: $blue;
             color: $white;
             margin: 40px -20px 20px;
             &:first-child{
@@ -1639,18 +1632,19 @@ header{
 }
 
 @media screen and (max-width: 991px) {
+    canvas {
+        max-height: 800px;
+    }
     iframe {
-        width: 450px;
+        width: 100%;
         height: 400px;
     }
-    .resp-iframe-donate {
-        width: 500px;
+    .section-2-left iframe {
+        height: 280px;
+        margin: 20px 0px;
     }
-    .circles-col {
-        margin: 150px 0 0 -130px;
-    }
-    br{
-        display: none;
+    .circle-col {
+        margin: 120px 100px 300px;
     }
     .editor-content{
         br{
@@ -1698,22 +1692,13 @@ header{
 }
 
 @media screen and (max-width: 767px) {
-    .resp-iframe-donate {
-        width: 720px;
+    iframe {
+        margin: 20px 0 !important;
+        width: 100%;
+        height: 380px;
     }
     .circles-col {
-        margin: 150px 100px;
-        padding-bottom: 120px;
-    }
-    .resp-iframe {
-        width: 760px;
-    }
-    .section-2-left {
-        iframe {
-            margin: 60px 15%;
-            width: 480px;
-            height: 380px;
-        }
+        margin: 0px auto 360px;
     }
     .container-fluid {
         max-width: 760px;
@@ -1922,7 +1907,7 @@ header{
         b{
             font-size: 0;
             &:before{
-                content: 'Your New Book';
+                content: 'This is the house of Love.';
                 font-size: 16px;
                 line-height: 36px;
             }
@@ -1943,42 +1928,24 @@ header{
 }
 
 @media screen and (max-width: 455px) {
-    .resp-iframe-donate {
-        width: 420px;
-    }
     .circles-col {
-        margin: 100px -50px;
-        padding-bottom: 160px;
+        margin: 50px -60px 360px;
     }
-    .resp-iframe {
-        width: 450px;
-    }
-    .section-2-left {
-        iframe {
-            margin: 60px 0;
-            width: 400px;
+    iframe {
+            margin: 20px 0;
+            width: 100%;
             height: 300px;
-        }
     }
 }
 
 @media screen and (max-width: 355px) {
-    .resp-iframe-donate {
-        width: 320px;
-    }
     .circles-col {
-        margin: 100px -90px;
-        padding-bottom: 160px;
+        margin: 50px -100px 360px;
     }
-    .resp-iframe {
-        width: 350px;
-    }
-    .section-2-left {
-        iframe {
-            margin: 60px 0;
-            width: 280px;
-            height: 220px;
-        }
+    iframe {
+        margin: 20px 0;
+        width: 100%;
+        height: 220px;
     }
 }
 /** Your styles here **/

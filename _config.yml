@@ -1,7 +1,7 @@
-title: Merry Merkle
-subtitle: Giving Globally
-description: "All you need is love"
-author: your_name_here
+title: Living The Blue Book
+subtitle: Laughing everlastingly
+description: A blaze of light in every word
+author: cryptowanderer
 timezone: UTC
 
 language: [en]
@@ -12,7 +12,7 @@ permalink_defaults:
   lang: en
 i18n_dir: :lang
 
-url: https://merrymerkle.world
+url: https://living.thebluebook.co.za
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -27,7 +27,7 @@ highlight:
 theme: navy
 deploy:
   type: git
-  repo: git@github.com:andytudhope/merrymerkle-world.git
+  repo: git@github.com:andytudhope/living-blue-book.git
   branch: gh-pages
 
 twitter: cryptowanderer

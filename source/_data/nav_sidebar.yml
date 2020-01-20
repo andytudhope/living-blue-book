@@ -1,0 +1,76 @@
+book:
+  love:
+    write_you: write_you.html
+    divan: divan.html
+    mountaintop: mountaintop.html
+    promised_matter: promised_matter.html
+    new_years_eve: new_years_eve.html
+    terra_khaya: terra_khaya.html
+    the_canoe: the_canoe.html
+    die_pole: die_pole.html
+    exalted: exalted.html
+    heartbook: heartbook.html
+    loves_dye: loves_dye.html
+    dependence: dependence.html
+  trust:
+    sun_halo: sun_halo.html
+    kathmandu_calling: kathmandu_calling.html
+    mont_serat: mont_serat.html
+    tricks: tricks.html
+    grosvenor_hill: grosvenor_hill.html
+    hiroshima_notes: hiroshima_notes.html
+    measured_mountains: measured_mountains.html
+    sickly: sickly.html
+    duiker_doings: duiker_doings.html
+    thomas_herd: thomas_herd.html
+  faith:
+    obsession: obsession.html
+    transmission: transmission.html
+    take_me: take_me.html
+    leaving_time: leaving_time.html
+    no_words: no_words.html
+    own_up: own_up.html
+    coastlines: coastlines.html
+    resurrection: resurrection.html
+    celebrate: celebrate.html
+  responsibility:
+    returned: returned.html
+    rainshine: rainshine.html
+    simplicity: simplicity.html
+    dying_to_remember: dying_to_remember.html
+    walk_in: walk_in.html
+    no_proof: no_proof.html
+    sadratu_l_muntaha: sadratu_l_muntaha.html
+    the_choice: the_choice.html
+    urvatu_l_vuthqa: urvatu_l_vuthqa.html
+  joy:
+    witness: witness.html
+    always_alive: always_alive.html
+    the_tent: the_tent.html
+    mlambomkulu: mlambomkulu.html
+    the_cave: the_cave.html
+    cradle_voice: cradle_voice.html
+    curing_time: curing_time.html
+    filamental: filamental.html
+    seweweekspoort: seweweekspoort.html
+    overberg: overberg.html
+    kogelberg: kogelberg.html
+    the_cape: the_cape.html
+    al_ghafur: al_ghafur.html
+  peace:
+    lunch: lunch.html
+    traces: traces.html
+    forget_full: forget_full.html
+    treatment: treatment.html
+    star_signs: star_signs.html
+    dream_tongue: dream_tongue.html
+    throwing_stones: throwing_stones.html
+    millenial: millenial.html
+    guardianship: guardianship.html
+    eternal_flame: eternal_flame.html
+    not_death_but_love: not_death_but_love.html
+    golden_locks: golden_locks.html
+    reverent: reverent.html
+    laughter: laughter.html
+  knowledge:
+    index: index.html

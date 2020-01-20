@@ -1,8 +1,156 @@
-book:
-  background:
-    canada: canada.html (Canada)
-    south-africa: south-africa.html (South Africa)
-    the-world: the-world.html (The World)
-  our-goal:
-    our-goal: / (Our Goal)
+values:
+  - title: Love
+    path: love
+    children:
+      - title: Write You
+        path: write_you.html
+      - title: Divan
+        path: divan.html
+      - title: Mountaintop
+        path: mountaintop.html
+      - title: Promised Matter
+        path: promised_matter.html
+      - title: New Year's Eve
+        path: new_years_eve.html
+      - title: Terra Khaya
+        path: terra_khaya.html
+      - title: The Canoe
+        path: the_canoe.html
+      - title: Die-pole
+        path: die_pole.html
+      - title: Exalted
+        path: exalted.html
+      - title: Heartbook
+        path: heartbook.html
+      - title: Love's Dye
+        path: loves_dye.html
+      - title: Dependence
+        path: dependence.html
+  - title: Trust
+    path: trust
+    children:
+      - title: Sun Halo
+        path: sun_halo.html
+      - title: Kathmandu Calling
+        path: kathmandu_calling.html
+      - title: Mont Serat
+        path: mont_serat.html
+      - title: Tricks
+        path: tricks.html
+      - title: Grosvenor Hill
+        path: grosvenor_hill.html
+      - title: Hiroshima Notes
+        path: hiroshima_notes.html
+      - title: Measured Mountains
+        path: measured_mountains.html
+      - title: Sickly
+        path: sickly.html
+      - title: Duiker Doings
+        path: duiker_doings.html
+      - title: Thomas' Herd
+        path: thomas_herd.html
+  - title: Faith
+    path: faith
+    children:
+      - title: Obsession
+        path: obsession.html
+      - title: Transmission
+        path: transmission.html
+      - title: Take Me
+        path: take_me.html
+      - title: Leaving Time
+        path: leaving_time.html
+      - title: No Words
+        path: no_words.html
+      - title: Own Up
+        path: own_up.html
+      - title: Coastlines
+        path: coastlines.html
+      - title: Resurrection
+        path: resurrection.html
+      - title: Celebrate
+        path: celebrate.html
+  - title: Responsibility
+    path: responsibility
+    children:
+      - title: Returned
+        path: returned.html
+      - title: Rainshine
+        path: rainshine.html
+      - title: Simplicity
+        path: simplicity.html
+      - title: Dying To Remember
+        path: dying_to_remember.html
+      - title: Walk In
+        path: walk_in.html
+      - title: No Proof
+        path: no_proof.html
+      - title: Sadratu'l-Muntahá
+        path: sadratu_l_muntaha.html
+      - title: The Choice
+        path: the_choice.html
+      - title: Urvatu'l-Vuthqá
+        path: urvatu_l_vuthqa.html
+  - title: Joy
+    path: joy
+    children:
+      - title: Witness
+        path: witness.html
+      - title: Always Alive
+        path: always_alive.html
+      - title: The Tent
+        path: the_tent.html
+      - title: Mlambomkulu
+        path: mlambomkulu.html
+      - title: The Cave
+        path: the_cave.html
+      - title: Cradle Voice
+        path: cradle_voice.html
+      - title: Curing Time 
+        path: curing_time.html
+      - title: Filamental
+        path: filamental.html
+      - title: Seweweekspoort
+        path: seweweekspoort.html
+      - title: Overberg
+        path: overberg.html
+      - title: Kogelberg
+        path: kogelberg.html
+      - title: The Cape
+        path: the_cape.html
+      - title: Al-Ghafur
+        path: al_ghafur.html
+  - title: Peace
+    path: peace
+    children:
+      - title: Lunch
+        path: lunch.html
+      - title: Traces
+        path: traces.html
+      - title: Forget Full
+        path: forget_full.html
+      - title: Treatment
+        path: treatment.html
+      - title: Star Signs
+        path: star_signs.html
+      - title: Dream Tongue
+        path: dream_tongue.html
+      - title: Throwing Stones
+        path: throwing_stones.html
+      - title: Millennial
+        path: millennial.html
+      - title: Guardianship
+        path: guardianship.html
+      - title: Eternal Flame
+        path: eternal_flame.html
+      - title: Not Death But Love
+        path: not_death_but_love.html
+      - title: Golden Locks
+        path: golden_locks.html
+      - title: Reverent
+        path: reverent.html
+      - title: Laughter
+        path: laughter.html
+  - title: Knowledge
+    path: knowledge_repo
   
