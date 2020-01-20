@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Living The Blue Book</title>
+  
+  <subtitle>Laughing everlastingly</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://living.thebluebook.co.za/"/>
+  <updated>2020-01-19T15:32:00.782Z</updated>
+  <id>https://living.thebluebook.co.za/</id>
+  
+  <author>
+    <name>cryptowanderer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Laughter</title>
+    <link href="https://living.thebluebook.co.za/news/2020/01/20/filler/"/>
+    <id>https://living.thebluebook.co.za/news/2020/01/20/filler/</id>
+    <published>2020-01-20T00:00:00.000Z</published>
+    <updated>2020-01-19T15:32:00.782Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Vast-nothingness"><a href="#Vast-nothingness" class="headerlink" title="Vast nothingness"></a>Vast nothingness</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Vast-nothingness&quot;&gt;&lt;a href=&quot;#Vast-nothingness&quot; class=&quot;headerlink&quot; title=&quot;Vast nothingness&quot;&gt;&lt;/a&gt;Vast nothingness&lt;/h1&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
