@@ -38,7 +38,7 @@ return entries.map(entry => {
   let isActive = ('/'+self.path).startsWith(fullPath)
   return `
     <li class="${isActive ? "active" : ""}">
-      <a href="${fullPath}">${entry.title}</a>
+      <a href="../${fullPath}">${entry.title}</a>
       ${(entry.children != undefined) ? `
       <ul class="sidebar-submenu">
         ${genSidebarList.call(self, fullPath, entry.children)}
@@ -100,7 +100,7 @@ hexo.extend.helper.register('url_for_lang', function(path) {
 });
 
 hexo.extend.helper.register('raw_link', function(path) {
-  return 'https://github.com/andytudhope/thebluebook/edit/develop/source/' + path;
+  return 'https://github.com/andytudhope/living-blue-book/edit/master/source/' + path;
 });
 
 hexo.extend.helper.register('page_anchor', function(str) {
