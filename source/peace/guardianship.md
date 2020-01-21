@@ -34,4 +34,6 @@ to stay.
 
 [I say we're made of love](https://www.youtube.com/watch?v=_ony2eS0OWw&t=5 "The Show Starts Now")
 
+[And golden embers](https://www.youtube.com/watch?v=k2QjEgOtCAA "Mandolin Orange")
+
 ![Guardian Trees](../img/guardian_trees.jpg)
