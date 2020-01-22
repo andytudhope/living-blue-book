@@ -129,6 +129,8 @@ values:
         path: traces.html
       - title: Forget Full
         path: forget_full.html
+      - title: Upapa Africana
+        path: upapa_africana.html
       - title: Treatment
         path: treatment.html
       - title: Star Signs

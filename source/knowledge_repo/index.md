@@ -61,6 +61,8 @@ love." – Rābiʿa al-ʿAdawiyya al-Qaysiyya hereafter called Rābiʿa Basri
 
 "Naught is, save God: and all that is, is God." — Farīd ud-Dīn ʿAṭṭār
 
+"Love's conqueror is he whom love conquers" — [Hakim Abul-Majd Majdūd ibn Ādam Sanā'ī Ghaznavi](https://www.youtube.com/watch?v=CpAh_VYexh0)
+
 "The real basis of their poetry is a loftily inculcated ethical system, which recognises in purity of heart, charity, self-renunciation, and bridling of the passions, the necessary conditions of eternal happiness." — Reynold Nicholson
 
 "Each person is a carbon copy of the _lawḥ maḥfuẓ_ (guarded tablet). Each of us carries the same copy of consciousness. The copy of Qur'an is in the heart, but we must make an effort to read it. That reading means living it, and that living it is actually unifying the inward and outward." — Shaykh Fadhlalla Haeri
