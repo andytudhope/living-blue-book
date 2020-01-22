@@ -20,7 +20,7 @@ and dancing turtle doves; the masked weavers
 calling to their little brown cousins 
 we never could quite name correctly;
 even that spotted eagle owl 
-cast in concrete, still chanting huuu,
+cast in concrete, still chanting _huuu_,
 knows too what it means that you
 were there, willing us on.
 
