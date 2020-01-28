@@ -323,6 +323,14 @@ When I saw Him dwelling in me,
 I realized that He was the Everything
 and I was nothing." — Lalla-Ded
 
+"A mirror remains that can't be broken
+because it faces nothing,
+because its inside everything.
+\[...\]
+Perhaps at certain heights
+questions and answers are exactly the same." — Roberto Juarroz
+
+
 "The ancient alchemist's art was to transmute the base lead of the self into the golden soul through practical spiritual disciplines, thereby spiritualising matter and materialising spirit - the perfect blending of lights." — Shaykh Fadhlalla Haeri
 
 _omnis mundi creatura_
@@ -381,6 +389,9 @@ Only through time time is conquered." — T. S. Eliot
 "You say you’ve unrolled the carpet of time,
 step then beyond life itself and reason,
 till you arrive at God’s command." — Hakim Abul-Majd Majdūd ibn Ādam Sanā'ī Ghaznavi
+
+"Only god doesn't pain me today.
+Is it because today doesn't exist?" — Roberto Juarroz
 
 "So, instead of trying to pull ourselves up by our bootlaces, let's take off our shoes altogether, feel the earth beneath our feet and the sun in our hair. Then, when we step forward with helping hands, we will leave no trace." — Anthony Osler
 
