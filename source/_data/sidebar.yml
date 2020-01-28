@@ -60,6 +60,8 @@ values:
         path: take_me.html
       - title: Leaving Time
         path: leaving_time.html
+      - title: Highlands
+        path: highlands.html
       - title: No Words
         path: no_words.html
       - title: Own Up

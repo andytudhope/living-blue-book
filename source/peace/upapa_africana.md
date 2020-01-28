@@ -5,7 +5,7 @@ title: Upapa Africana
 
 # Upapa Africana
 
-"Once on a time from all the Circles seven 1
+"Once on a time from all the Circles seven
 Between the stedfast Earth and rolling Heaven
 The birds \[...\]
 Flock'd from all Quarters into full Divan" — Farīd ud-Dīn ʿAṭṭār
