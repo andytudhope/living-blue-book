@@ -136,6 +136,8 @@ Beneath the music from a farther room.
 
 "Only art penetrates \[...\] the seeming realities of this world. There is another reality, the genuine one, which we lose sight of. This other reality is always sending us hints which, without art, we can’t receive." — Saul Bellow
 
+"One of the functions of art is to give people the words to know their own experience… Storytelling is a tool for knowing who we are and what we want." — Ursula K. Le Guin
+
 "The most important thing is to explain to people what sound does [...] Why is it that there is an emotive quality to sound?  In other words, how to listen: how to attach yourself to the first sound in the hope of staying with it until the end." — Daniel Barenboim
 
 "Had I known how listening is superior to speaking, I would not have wasted my life preaching." — Farīd ud-Dīn ʿAṭṭār
@@ -376,6 +378,10 @@ The moment in the draughty church at smokefall
 Be remembered; involved with past and future.
 Only through time time is conquered." — T. S. Eliot
 
+"You say you’ve unrolled the carpet of time,
+step then beyond life itself and reason,
+till you arrive at God’s command." — Hakim Abul-Majd Majdūd ibn Ādam Sanā'ī Ghaznavi
+
 "So, instead of trying to pull ourselves up by our bootlaces, let's take off our shoes altogether, feel the earth beneath our feet and the sun in our hair. Then, when we step forward with helping hands, we will leave no trace." — Anthony Osler
 
 "The melody of love swells forth, and the rhythm of love’s detachment beats the time." — Kabîr
@@ -499,6 +505,22 @@ could they possibly say?" — Mary Oliver
 "To celebrate, or to dwindle into dullness, seems to me the law at work here." — Ben Okri
 
 "Hold this moment forever, I tell myself; it may never come again." — Pico Iyer
+
+"as when some Man apart
+Answers aloud the Question in his Heart—1400
+'The Sun of my Perfection is a Glass
+Wherein from _Seeing_ into _Being_ pass
+All who, reflecting as reflected see
+Themselves in Me, and Me in Them: not Me,
+But all of Me that a contracted Eye
+Is comprehensive of Infinity:
+Nor yet _Themselves_: no Selves, but of The All
+Fractions, from which they split and whither fall.
+As Water lifted from the Deep, again
+Falls back in individual Drops of Rain 1410
+Then melts into the Universal Main.
+All you have been, and seen, and done, and thought,
+Not _You_ but _I_, have seen and been and wrought"  — Farīd ud-Dīn ʿAṭṭār
 
 "Today we weep, tonight we dance. There is no conclusion to be reached about all this. Just coming across such delight and having our hearts opened is precious beyond compare." — Anthony Osler
 
