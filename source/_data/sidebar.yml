@@ -72,6 +72,8 @@ values:
         path: coastlines.html
       - title: Resurrection
         path: resurrection.html
+      - title: Centred
+        path: centred.html
       - title: Celebrate
         path: celebrate.html
   - title: Responsibility
