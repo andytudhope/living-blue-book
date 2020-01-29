@@ -117,6 +117,8 @@ the whole world belongs to you" — Lao Tzu
 Will be the Sea
 Whatever the drop's philosophy." — Farīd ud-Dīn ʿAṭṭār
 
+"When I reached Him I saw that His remembering of me preceded my remembrance of Him." — Bayazid Bistami
+
 "Go, go, go, said the bird: human kind
 Cannot bear very much reality.
 Time past and time future
