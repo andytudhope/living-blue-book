@@ -302,6 +302,8 @@ Kabîr says: “There adoration never ceases; there the Lord of the Universe sit
 
 "Those drunk with God, tho’ they be thousands, are yet one" — Jalāl ad-Dīn Muhammad Rūmī
 
+"He has a special tenderness for His own, personal idiots." — Llewellyn Vaughan-Lee
+
 "To lead you to an overwhelming question ...
 Oh, do not ask, “What is it?”
 Let us go and make our visit." — T. S. Eliot
