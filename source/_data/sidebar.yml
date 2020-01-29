@@ -49,6 +49,8 @@ values:
         path: duiker_doings.html
       - title: Thomas' Herd
         path: thomas_herd.html
+      - title: Pages of the Sky
+        path: pages_of_the_sky.html
   - title: Faith
     path: faith
     children:
