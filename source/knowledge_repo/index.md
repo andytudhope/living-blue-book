@@ -227,7 +227,12 @@ the star-sound Tsau, sounding Tsau! Tsau!" — /Han≠kasso
 
 "After me, nothing. And in that nothing, something is born from brave new souls, something like paradise, drifting in from the horizon." — Ben Okri
 
-"Living in a place that may capsize at any moment is not a problem, it is a gift. South is South. A spiritual backwater? Wonderful! Remote outpost? Brilliant! It is right here that we find our centre, right here that teachers appear, in these beautiful and bitter circumstances. And an unbroken transmission of the light is already passing from heart to heart all the way to Cape Town." — Anthony Osler 
+"Living in a place that may capsize at any moment is not a problem, it is a gift. South is South. A spiritual backwater? Wonderful! Remote outpost? Brilliant! It is right here that we find our centre, right here that teachers appear, in these beautiful and bitter circumstances. And an unbroken transmission of the light is already passing from heart to heart all the way to Cape Town." — Anthony Osler
+
+"And we are put on earth a little space,
+That we may learn to bear the beams of love, 
+And these black bodies and this sun-burnt face
+Is but a cloud, and like a shady grove." — William Blake
 
 "Everything else can wait, but the search for God cannot wait, and love one another." — George Harrison's final public statement
 
