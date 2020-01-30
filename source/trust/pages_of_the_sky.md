@@ -29,7 +29,7 @@ sweeping its way back to a distant sea,
 knowing it is not migration, but the one way
 journey that will end in endless depth.
 
-Like the _Belenois aurota_
+Like _Belenois aurota_
 we are born in air, fly to death
 and just sometimes are known
 to gather in great numbers,
