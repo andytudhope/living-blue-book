@@ -18,7 +18,7 @@ to hear the luminous silence, of God.
 I thought that fragrant garden
 was just for me, but now
 this river has revealed that it wasn't
-that situation I was imagining; it was
+the grail I was imagining; it was
 imagining me, this make-believe mosaic
 of memory who has made his promise
 and will wait patiently to fulfill it,
@@ -27,6 +27,10 @@ looking at the pattern in clovers
 and the playfulness of a few, precious clouds.
 
 All of it perfectly lucky, if you stop counting 
-the holy leaves of this book without end.
+the honoured leaves of this book without end.
 
 #### Traces
+
+[Harmonic](https://youtu.be/PvrPGO7ja3k?t=71 "Arabella Steinbacher")
+
+[Gardening](https://www.youtube.com/watch?v=wxxToNpbM2I "Llewellyn Vaughan Lee")

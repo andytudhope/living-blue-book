@@ -6,7 +6,7 @@ title: Highlands
 # Highlands
 
 This song which soared into the Stormberg
-sounds somehow like it comes from me,
+sounds steeped in something else,
 rising into the rainclouds' rumbling
 as lightning strikes a massive stone
 just by the side of a dirt road
@@ -38,3 +38,7 @@ the sign made from shards of mirror,
 reading this reflection.
 
 #### Traces
+
+[Chasing tales](https://www.youtube.com/watch?v=GgxrtnJnP9w "The Seeker")
+
+[Universally](https://www.youtube.com/watch?v=uEyvjHuMR4E "Bill Evans")

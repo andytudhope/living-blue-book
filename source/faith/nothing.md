@@ -39,3 +39,7 @@ doing nothing.
 
 #### Traces
 
+[The flow of](https://www.youtube.com/watch?v=QUMuDWDVd20 "Alice Coltrane")
+
+[Being empty](https://goldensufi.org/not-knowing-non-being-and-the-power-of-nothingness/)
+
