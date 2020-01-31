@@ -69,6 +69,15 @@ love." – Rābiʿa al-ʿAdawiyya al-Qaysiyya hereafter called Rābiʿa Basri
 
 "This is that mystic religion which, though it has nothing in it but that same spirit, that same truth, and that same life, which always was and always must be the religion of all God’s holy angels and saints in heaven, is by the wisdom of this world accounted to be madness." — [William Law](http://www.passtheword.org/William-Law/)
 
+"But there's a tree, of many, one,
+A single field which I have look'd upon
+\[...\]
+Not in entire forgetfulness,
+          And not in utter nakedness,
+But trailing clouds of glory do we come 
+               From God, who is our home:
+Heaven lies about us in our infancy!" — William Wordsworth
+
 "I am no prophet — and here’s no great matter;
 I have seen the moment of my greatness flicker,
 And I have seen the eternal Footman hold my coat, and snicker,
@@ -204,6 +213,11 @@ And Lo!--the phantom Caravan has reach'd
 The Nothing it set out from--Oh, make haste!" — Omar Khayyam
 
 "Die into your nothingness and you will live by the light of the eternal soul." — Shaykh Fadhlalla Haeri
+
+"0 joy! that in our embers
+Is something that doth live,
+That Nature yet remembers
+What was so fugitive!" — William Wordsworth
 
 "There is no insurmountable solitude. All paths lead to the same goal: to convey to others what we are. And we must pass through solitude and difficulty, isolation and silence in order to reach forth to the enchanted place where we can dance our clumsy dance and sing our sorrowful song — but in this dance or in this song there are fulfilled the most ancient rites of our conscience in the awareness of being human and of believing in a common destiny." — Pablo Neruda
 
