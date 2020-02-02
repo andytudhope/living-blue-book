@@ -10,7 +10,7 @@ those flat-topped mountains where you died,
 a hero fighting for "land en volk".
 
 We didn't say much to each other,
-just chewed some droewors
+just chewed some _droëwors_
 and watched the golden waves of wind
 until it came time
 to tell you that the heights you reached
