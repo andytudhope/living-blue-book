@@ -3,7 +3,7 @@ id: al_matin
 title: al-Matīn
 ---
 
-# al-Matīn
+# al-Matin
 
 **I**
 
@@ -46,7 +46,7 @@ if you dare slow down.
 
 **II**
 
-I turned to the trinity in turn
+I turned to the trinity
 and told them the name,
 only to see them shake their heads and laugh.
 
@@ -64,7 +64,7 @@ I have walked away from where I came
 since that very first moment.
 I am distance,
 so do not think that this damnation
-can be born without the will
+can be borne without the will
 to keep wandering on,
 waiting always to return.
 
