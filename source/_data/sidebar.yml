@@ -29,6 +29,8 @@ values:
   - title: Trust
     path: trust
     children:
+      - title: Seams
+        path: seams.html
       - title: Sun Halo
         path: sun_halo.html
       - title: Kathmandu Calling
