@@ -635,6 +635,8 @@ Of your own Being!" — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
 "And killing the Buddha means putting myself aside and taking into my heart whoever is in front of me." — Anthony Osler
 
+"Muhammad must have sensed the full weight of revolution achieved, and known that to realize a dream was only to wake up to a more complex reality." — Lesley Hazelton"
+
 "Everyone, regardless, always, of everything. Not to mention the existential sorrow we all might be afflicted with, which is that we, and what we love, will soon be annihilated. Which sounds more dramatic than it might. Let me just say dead. Is this sorrow, of which our impending being no more might be the foundation, the great wilderness? Is sorrow the true wild? And if it is — and if we join them — your wild to mine — what’s that? For joining, too, is a kind of annihilation. What if we joined our sorrows, I’m saying. I’m saying: What if that is joy?" — Ross Gay
 
 "It had to teach her to think of love as a state of grace: not the means to anything but the alpha and omega, an end in itself." — Gabriel García Márquez
