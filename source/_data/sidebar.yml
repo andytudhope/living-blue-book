@@ -87,6 +87,8 @@ values:
     children:
       - title: Returned
         path: returned.html
+      - title: Wepener
+        path: wepener.html
       - title: Rainshine
         path: rainshine.html
       - title: Simplicity
@@ -99,6 +101,8 @@ values:
         path: no_proof.html
       - title: Sadratu'l-Muntahá
         path: sadratu_l_muntaha.html
+      - title: al-Matīn
+        path: al_matin.html
       - title: The Choice
         path: the_choice.html
       - title: Urvatu'l-Vuthqá
