@@ -105,5 +105,7 @@ to which we all succumb.
 
 [Be the change](https://www.youtube.com/watch?v=eSRmeVTYZlE "Yatao, Peia & Rob Taylor")
 
+[See sameness in difference](https://www.youtube.com/watch?v=vyFkPd6fEuI "Orthodoxy is not always wrong")
+
 
 

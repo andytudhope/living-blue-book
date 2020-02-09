@@ -33,4 +33,4 @@ forever breathing complete benediction.
 
 [Lamenting](https://www.youtube.com/watch?v=HN2DiY5OXF4 "Immaculate Queen of Heaven, you support me always")
 
-[The tavern](https://www.youtube.com/watch?v=a3r35X9pH1M "Llewellyn Vaughan-Lee: Separation and Union")
+[In the tavern](https://www.youtube.com/watch?v=a3r35X9pH1M "Llewellyn Vaughan-Lee: Separation and Union")
