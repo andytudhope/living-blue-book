@@ -5,7 +5,7 @@ title: Lunch
 
 # Lunch
 
-"We can only attempt small perfect acts." — Shayk Fadhlalla Haeri
+"We can only attempt small perfect acts." — Shaykh Fadhlalla Haeri
 
 ---
 
