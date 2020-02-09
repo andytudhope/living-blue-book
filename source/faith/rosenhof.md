@@ -29,8 +29,8 @@ more moment I have been woken up.
 
 #### Traces
 
-[Spring](https://www.youtube.com/watch?v=TKthRw4KjEg "Perlman conducts playfully")
+[Merciful](https://www.youtube.com/watch?v=H3v9unphfi0 "The first pirated song ever")
 
-[By the river](https://www.youtube.com/watch?v=l6kqu2mk-Kw "Smetana: Vltava")
+[Spring](https://www.youtube.com/watch?v=TKthRw4KjEg "Perlman conducts playfully")
 
 ![Rainbow roses](../img/rainbow_roses.jpg)
