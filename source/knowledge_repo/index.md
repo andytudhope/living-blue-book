@@ -63,6 +63,8 @@ love." – Rābiʿa al-ʿAdawiyya al-Qaysiyya hereafter called Rābiʿa Basri
 
 "Love's conqueror is he whom love conquers" — [Hakim Abul-Majd Majdūd ibn Ādam Sanā'ī Ghaznavi](https://www.youtube.com/watch?v=CpAh_VYexh0)
 
+"This identity out of the One into the One and with the One is the source and fountainhead and breaking forth of glowing Love." — Meister Eckhart
+
 "The real basis of their poetry is a loftily inculcated ethical system, which recognises in purity of heart, charity, self-renunciation, and bridling of the passions, the necessary conditions of eternal happiness." — Reynold Nicholson
 
 "Each person is a carbon copy of the _lawḥ maḥfuẓ_ (guarded tablet). Each of us carries the same copy of consciousness. The copy of Qur'an is in the heart, but we must make an effort to read it. That reading means living it, and that living it is actually unifying the inward and outward." — Shaykh Fadhlalla Haeri
@@ -712,6 +714,8 @@ Around me, even the desert grew green." — Kabîr
 Has All become, the All is “I” and Bliss.
 Know thou art That, Sannyasin bold! Say –
 “Om Tat Sat, Om!”" — Swami Vivekananda
+
+"By precept and by example, the Avatar teaches that this transforming knowledge is possible, that all sentient beings are called to it and that, sooner or later, in one way or another, all must finally come to it." — Aldous Huxley
 
 "I will gather all people into well-being
      Never again will they be divided or abased
