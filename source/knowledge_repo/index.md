@@ -71,15 +71,6 @@ love." – Rābiʿa al-ʿAdawiyya al-Qaysiyya hereafter called Rābiʿa Basri
 
 "This is that mystic religion which, though it has nothing in it but that same spirit, that same truth, and that same life, which always was and always must be the religion of all God’s holy angels and saints in heaven, is by the wisdom of this world accounted to be madness." — [William Law](http://www.passtheword.org/William-Law/)
 
-"But there's a tree, of many, one,
-A single field which I have look'd upon
-\[...\]
-Not in entire forgetfulness,
-          And not in utter nakedness,
-But trailing clouds of glory do we come 
-               From God, who is our home:
-Heaven lies about us in our infancy!" — William Wordsworth
-
 "I am no prophet — and here’s no great matter;
 I have seen the moment of my greatness flicker,
 And I have seen the eternal Footman hold my coat, and snicker,
@@ -103,9 +94,9 @@ Therefore you have no need to look beyond yourself; what you seek is within you,
 is played without ceasing,
 and its sound is love" — Kabîr
 
-"Isn't that a sort of parallel of the process that every human being has to go through in his inner life in order to first achieve the affirmation of what one is, then have the courage to let that identity go in order to find the way back. I think this is what music is about." — Daniel Barenboim
-
 "Let your worship song be silence" — Lalla-Ded
+
+"Isn't that a sort of parallel of the process that every human being has to go through in his inner life in order to first achieve the affirmation of what one is, then have the courage to let that identity go in order to find the way back. I think this is what music is about." — Daniel Barenboim
 
 "The while amazed between
 His Beauty and His Majesty
@@ -115,6 +106,17 @@ I stood in silent ecstasy" — Rābiʿa Basri
 rejoice in the way things are.
 When you realize there is nothing lacking,
 the whole world belongs to you" — Lao Tzu
+
+"This is a great and precious gift; but if the poet remains content with his gift, if he persists in worshipping the beauty in nature without going on to make himself capable, through selflessness, of apprehending Beauty as it is in the divine Ground, then he is only an idolater." — Aldous Huxley
+
+"But there's a tree, of many, one,
+A single field which I have look'd upon
+\[...\]
+Not in entire forgetfulness,
+          And not in utter nakedness,
+But trailing clouds of glory do we come 
+               From God, who is our home:
+Heaven lies about us in our infancy!" — William Wordsworth
 
 "To understand just one life, you have to swallow the world. [I told you that](https://www.youtube.com/watch?v=BxWl-O19i-I)." — Salman Rushdie
 
