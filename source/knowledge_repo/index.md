@@ -355,8 +355,9 @@ because its inside everything.
 Perhaps at certain heights
 questions and answers are exactly the same." — Roberto Juarroz
 
-
 "The ancient alchemist's art was to transmute the base lead of the self into the golden soul through practical spiritual disciplines, thereby spiritualising matter and materialising spirit - the perfect blending of lights." — Shaykh Fadhlalla Haeri
+
+"_Vos estis tam sancti sicut vultis_" — Ruysbroeck
 
 _omnis mundi creatura_
 _quasi liber et pictura_
