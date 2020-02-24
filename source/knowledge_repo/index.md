@@ -157,6 +157,8 @@ Beneath the music from a farther room.
 
 "The most important thing is to explain to people what sound does [...] Why is it that there is an emotive quality to sound?  In other words, how to listen: how to attach yourself to the first sound in the hope of staying with it until the end." — Daniel Barenboim
 
+"I had been drawn into these tones which in their apparent monotony recalled the eternal recurrence of all things existing and knocked at the doors of your own feelings and called forth, step by step, all that had been moving in you without your knowledge . . . laid bare something that had always been there and now became obvious to you with a vividness that made your heart pound \[...\] a rushing of wheels out of eternity into eternity, without measure or limit or goal, a breathless, reckless tightrope-walker's run over knife-edge precipices, through one eternal present, towards an awareness that was freedom, and power, and beyond all thought. And, suddenly, in the midst of an uprising sweep: a stop and a deadly silence. Brutal. Honest. Clean." — Muhammad Asad
+
 "Had I known how listening is superior to speaking, I would not have wasted my life preaching." — Farīd ud-Dīn ʿAṭṭār
 
 "From pure sensation to the intuition of beauty, from pleasure and pain to love and the mystical ecstasy and death — all the things that are fundamental, all the things that, to the human spirit, are most profoundly significant, can only be experienced, not expressed. The rest is always and everywhere silence." — Aldous Huxley
@@ -226,6 +228,8 @@ That Nature yet remembers
 What was so fugitive!" — William Wordsworth
 
 "There is no insurmountable solitude. All paths lead to the same goal: to convey to others what we are. And we must pass through solitude and difficulty, isolation and silence in order to reach forth to the enchanted place where we can dance our clumsy dance and sing our sorrowful song — but in this dance or in this song there are fulfilled the most ancient rites of our conscience in the awareness of being human and of believing in a common destiny." — Pablo Neruda
+
+"The desert is bare and clean and knows no compromise. It sweeps out of the heart of man all the lovely fantasies that could be used as a masquerade for wishful thinking, and thus makes him free to surrender himself to an Absolute that has no image: the farthest of all that is far and yet the nearest of all that is near." — Muhammad Asad
 
 "One thing only is needful: the knowledge of the simple and clear truth which finds place in every soul that is not stupefied by religious and scientific superstitions — the truth that for our life one law is valid — the law of love, which brings the highest happiness to every individual as well as to all mankind. Free your minds from those overgrown, mountainous imbecilities which hinder your recognition of it, and at once the truth will emerge from amid the pseudo-religious nonsense that has been smothering it: the indubitable, eternal truth inherent in man, which is one and the same in all the great religions of the world." — Leo Tolstoy to Mahatma Ghandi
 
@@ -421,7 +425,9 @@ step then beyond life itself and reason,
 till you arrive at God’s command." — Hakim Abul-Majd Majdūd ibn Ādam Sanā'ī Ghaznavi
 
 "Only god doesn't pain me today.
-Is it because today doesn't exist?" — Roberto Juarroz
+Is it because today doesn't exist?" — Roberto Juarroz 
+
+"The Outer and the Inner, the I and the World, are to him not opposite - and mutually opposed - entities, but only different aspects of an unchanging present; his life is not dominated by secret fears; and whenever he does things, he does them because outward necessity and not a desire for inner security demands action. In result, he has not progressed in material achievement as rapidly as the Westerner - but he has kept his soul together." — Muhammad Asad
 
 "So, instead of trying to pull ourselves up by our bootlaces, let's take off our shoes altogether, feel the earth beneath our feet and the sun in our hair. Then, when we step forward with helping hands, we will leave no trace." — Anthony Osler
 
@@ -630,6 +636,8 @@ Of your own Being!" — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
 "This was my master's way. He not only knew how to read the great book of nature, but also knew the way monks read the books of Scripture, and how they thought through them \[...\] His explanation, moreover, seemed to me at that point so obvious that my humiliation at not having discovered it by myself was surpassed only by my pride at now being a sharer of it, and I was almost congratulating myself on my insight. Such is the power of truth that, like good, it is its own propagator." — Umberto Eco
 
+"A quiet academic career did not attract me. I felt a yearning to come into more intimate grips with life, to enter it without any of those carefully contrived, artificial defences which security-minded people love to build up around themselves; and I wanted to find by myself an approach to the spiritual order of things which, I knew, must exist." — Muhammad Asad
+
 "There is no greater gift a people can be given than that they live a life touched with fable." — Ben Okri
 
 "He just likes to hang around, dozing, smiling, sniffing the incense, watching our coming and going. It makes me happy to have him here; a reminder of our commitment to waking up, and an honouring of those who have made this commitment before us. When the children have their weekends here, the boys sleep in the zendo, which they call the China Church. One night Alpheus went up to the statue in the middle of the night and spoke to the Buddha in his mock-Mandarin; when the story got out in the morning, Margie asked Alpheus if the Buddha had answered him.  'Oh yes,' he said, 'he said to me, "Hello Alpheus, you are a big handsome boy.'" — Anthony Osler
@@ -640,11 +648,13 @@ Of your own Being!" — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
 "And in that moment, he was finally able to accept it all. In the deepest recesses of his soul, Tsukuru Tanazaki understood. One heart is not connected to another through harmony alone. They are, instead, linked deeply through their wounds. Pain linked to pain, fragility to fragility. There is no silence without a cry of grief, no forgiveness without bloodshed, no acceptance without a passage through acute loss. That is what lies at the root of true harmony." — Haruko Murakami
 
-"And killing the Buddha means putting myself aside and taking into my heart whoever is in front of me." — Anthony Osler
+"Because this unfamiliar world is so entirely different from all that you have known at home; because it offers so much that is strikingly strange in image and sound, it brushes you sometimes, if you permit yourself to be attentive, with a momentary remembrance of things long known and long forgotten: those intangible realities of your own life. And when this breath of remembrance reaches you from beyond the abyss that separates your world from that other, that unfamiliar one, you ask yourself whether it is not perhaps herein - and only herein - that the meaning of all wandering lies: to become aware of the strangeness of the world around you and thereby reawaken to your own, personal, forgotten reality." — Muhammad Asad
 
 "Muhammad must have sensed the full weight of revolution achieved, and known that to realize a dream was only to wake up to a more complex reality." — Lesley Hazelton"
 
 "Everyone, regardless, always, of everything. Not to mention the existential sorrow we all might be afflicted with, which is that we, and what we love, will soon be annihilated. Which sounds more dramatic than it might. Let me just say dead. Is this sorrow, of which our impending being no more might be the foundation, the great wilderness? Is sorrow the true wild? And if it is — and if we join them — your wild to mine — what’s that? For joining, too, is a kind of annihilation. What if we joined our sorrows, I’m saying. I’m saying: What if that is joy?" — Ross Gay
+
+"And killing the Buddha means putting myself aside and taking into my heart whoever is in front of me." — Anthony Osler
 
 "It had to teach her to think of love as a state of grace: not the means to anything but the alpha and omega, an end in itself." — Gabriel García Márquez
 
