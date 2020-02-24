@@ -732,6 +732,16 @@ Know thou art That, Sannyasin bold! Say –
 
 "By precept and by example, the Avatar teaches that this transforming knowledge is possible, that all sentient beings are called to it and that, sooner or later, in one way or another, all must finally come to it." — Aldous Huxley
 
+"And I, infinitesimal being,
+drunk with the great starry
+void,
+likeness, image of
+mystery,
+I felt myself a pure part
+of the abyss,
+I wheeled with the stars,
+my heart broke free on the open sky" — Pablo Neruda
+
 "I will gather all people into well-being
      Never again will they be divided or abased
 Take out my hidden treasure
