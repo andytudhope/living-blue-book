@@ -109,6 +109,15 @@ the whole world belongs to you" — Lao Tzu
 
 "This is a great and precious gift; but if the poet remains content with his gift, if he persists in worshipping the beauty in nature without going on to make himself capable, through selflessness, of apprehending Beauty as it is in the divine Ground, then he is only an idolater." — Aldous Huxley
 
+"Earth's the right place for love:
+I don't know where it's likely to go better.
+I'd like to go by climbing a birch tree,
+And climb black branches up a snow-white trunk
+Toward heaven, till the tree could bear no more,
+but dipped its top and set me down again.
+That would be good both going and coming back.
+One could do worse than be a swinger of birches." — Robert Frost
+
 "But there's a tree, of many, one,
 A single field which I have look'd upon
 \[...\]
