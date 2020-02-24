@@ -140,6 +140,15 @@ Time past and time future
 What might have been and what has been
 Point to one end, which is always present." — T. S. Eliot
 
+"So that one day you realised that what you wanted
+had already happened long ago and in the dwelling place
+you had lived in before you began,
+and that every step along the way, you had carried
+the heart and the mind and the promise
+that first set you off and drew you on and that you were
+more marvelous in your simple wish to find a way
+than the gilded roofs of any destination you could reach" — David Whyte
+
 "We need the awkward truth of poetry. We need its indirect insistence on the magic of listening.
 [...]
 We need the voice that speaks to our joys, our childhoods, and to the Gordian knots of our private and national condition. A voice that speaks to our doubts, our fears, and to all the unsuspected dimensions that make us both human and beings touched by the whispering of the stars." — Ben Okri
