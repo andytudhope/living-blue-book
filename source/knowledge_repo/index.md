@@ -96,6 +96,8 @@ and its sound is love" — Kabîr
 
 "Let your worship song be silence" — Lalla-Ded
 
+"You are waiting for me to describe what this silence is so that you can compare it, interpret it, carry it away and bury it. It cannot be described. What can be described is the known and freedom from the known can come into being only when there is a dying every day to the known, to the hurts, the flatteries, to all the images you have made, to all your experiences \[...\] That silence which is not the silence of the ending of noise is only a small beginning. It is like going through a small hole to an enormous, wide, expansive ocean, to an immeasurable, timeless state." — Jiddu Krishnamurti
+
 "Isn't that a sort of parallel of the process that every human being has to go through in his inner life in order to first achieve the affirmation of what one is, then have the courage to let that identity go in order to find the way back. I think this is what music is about." — Daniel Barenboim
 
 "The while amazed between
@@ -446,6 +448,8 @@ till you arrive at God’s command." — Hakim Abul-Majd Majdūd ibn Ādam Sanā
 Is it because today doesn't exist?" — Roberto Juarroz 
 
 "The Outer and the Inner, the I and the World, are to him not opposite - and mutually opposed - entities, but only different aspects of an unchanging present; his life is not dominated by secret fears; and whenever he does things, he does them because outward necessity and not a desire for inner security demands action. In result, he has not progressed in material achievement as rapidly as the Westerner - but he has kept his soul together." — Muhammad Asad
+
+"Then there is no achieving, no ladder to climb; there is only the first step and the first step is the everlasting step." — Jiddu Krishnamurti
 
 "So, instead of trying to pull ourselves up by our bootlaces, let's take off our shoes altogether, feel the earth beneath our feet and the sun in our hair. Then, when we step forward with helping hands, we will leave no trace." — Anthony Osler
 
