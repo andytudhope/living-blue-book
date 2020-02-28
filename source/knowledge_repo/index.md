@@ -41,6 +41,9 @@ That indeed, indeed, God is real." — Khwāja Shams-ud-Dīn Muḥammad Ḥāfe�
 But sure, a mystery here abides,
 A Something is there for us to know." — Lalla-Ded
 
+"You are that reflected eye and He is the light of that Seeing. The eyes of the ReaL see with the eye of the Seer.
+The cosmos becomes the man, the man the cosmos - there is no clearer explanation than this!" — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
+
 "When you really look for me, you will see me instantly —
 you will find me in the tiniest house of time." — Kabîr
 
@@ -753,6 +756,10 @@ Know thou art That, Sannyasin bold! Say –
 “Om Tat Sat, Om!”" — Swami Vivekananda
 
 "By precept and by example, the Avatar teaches that this transforming knowledge is possible, that all sentient beings are called to it and that, sooner or later, in one way or another, all must finally come to it." — Aldous Huxley
+
+"When the traveller on the path has completed
+the circuit of return to separation, then his last point as man is
+joined to the first of the Real." — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
 
 "And I, infinitesimal being,
 drunk with the great starry
