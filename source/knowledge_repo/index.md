@@ -144,7 +144,7 @@ Heaven lies about us in our infancy!" — William Wordsworth
 Will be the Sea
 Whatever the drop's philosophy." — Farīd ud-Dīn ʿAṭṭār
 
-"When I reached Him I saw that His remembering of me preceded my remembrance of Him." — Bayazid Bistami
+"When I reached Him I saw that His remembering of me preceded my remembrance of Him." — Bâyezîd Bistamî
 
 "Know that when you learn to lose yourself, you will reach the Beloved. There is no other lesson to be learnt, and more than this is not known by me." — Sheikh Abdullah Ansari of Herat
 

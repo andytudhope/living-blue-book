@@ -5,10 +5,10 @@ title: Centred
 
 # Centred
 
-I stood in a garden once and,
+I stood in a garden once,
 after paying full entrance price
 and walking through the front gate,
-there arose in my heart
+when there arose in my heart
 such a sense of heaven that every time
 I am humbled, every time I am
 brought back here, I cannot help but recall
@@ -18,11 +18,12 @@ to hear the luminous silence, of God.
 I thought that fragrant garden
 was just for me, but now
 this river has revealed that it wasn't
-the grail I was imagining; it was
-imagining me, this make-believe mosaic
-of memory who has made his promise
+the grail I remembered; 
+it was remembering me, 
+this make-believe mosaic of memory 
+who has made his promise
 and will wait patiently to fulfill it,
-passing the little time I have 
+passing the little time he has 
 looking at the pattern in clovers
 and the playfulness of a few, precious clouds.
 

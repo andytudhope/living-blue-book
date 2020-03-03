@@ -4,6 +4,8 @@ values:
     children:
       - title: Write You
         path: write_you.html
+      - title: Tell Me
+        path: tell_me.html
       - title: Divan
         path: divan.html
       - title: Mountaintop
@@ -29,6 +31,8 @@ values:
   - title: Trust
     path: trust
     children:
+      - title: Read
+        path: read.html
       - title: Seams
         path: seams.html
       - title: Sun Halo
@@ -53,6 +57,8 @@ values:
         path: thomas_herd.html
       - title: Pages of the Sky
         path: pages_of_the_sky.html
+      - title: Atman
+        path: atman.html
   - title: Faith
     path: faith
     children:
@@ -62,6 +68,8 @@ values:
         path: transmission.html
       - title: Take Me
         path: take_me.html
+      - title: Pilgrimage
+        path: pilgrimage.html
       - title: Leaving Time
         path: leaving_time.html
       - title: Highlands
@@ -80,13 +88,17 @@ values:
         path: rosenhof.html
       - title: Centred
         path: centred.html
+      - title: Longing Life
+        path: longing_life.html
       - title: Celebrate
         path: celebrate.html
   - title: Responsibility
     path: responsibility
     children:
-      - title: Returned
-        path: returned.html
+      - title: Oasis
+        path: oasis.html
+      - title: Xhariep
+        path: xhariep.html
       - title: Wepener
         path: wepener.html
       - title: Rainshine
@@ -99,6 +111,8 @@ values:
         path: walk_in.html
       - title: No Proof
         path: no_proof.html
+      - title: Returned
+        path: returned.html
       - title: Sadratu'l-Muntahá
         path: sadratu_l_muntaha.html
       - title: al-Matīn
@@ -134,6 +148,8 @@ values:
         path: kogelberg.html
       - title: The Cape
         path: the_cape.html
+      - title: Abode
+        path: abode.html
       - title: Al-Ghafur
         path: al_ghafur.html
   - title: Peace
@@ -141,6 +157,8 @@ values:
     children:
       - title: Lunch
         path: lunch.html
+      - title: Coffee
+        path: coffee.html
       - title: Traces
         path: traces.html
       - title: Forget Full
@@ -167,6 +185,8 @@ values:
         path: golden_locks.html
       - title: Reverent
         path: reverent.html
+      - title: Remainder
+        path: remainder.html
       - title: Laughter
         path: laughter.html
   - title: Knowledge

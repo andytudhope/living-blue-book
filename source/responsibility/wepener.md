@@ -35,8 +35,8 @@ after dragging yourself all the way up
 far beyond the will of those you served with.
 
 So we sing, great boer kommandant,
-the peaceful music of another part
-of our shared heritage, mixed blood 
+the peaceful music which plays another part
+in our shared heritage, mixed blood 
 which beats remembrance
 of you and everything you yearned for:
 
