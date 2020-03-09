@@ -25,3 +25,7 @@ this liar knows what that moment meant,
 washing dishes with both soap and sun.
 
 #### Traces
+
+[Modern volk](https://www.youtube.com/watch?v=pZYagxwMhaw)
+
+[And square adagios](https://www.youtube.com/watch?v=QRQwZDWz1Pw&t=3844s)

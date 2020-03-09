@@ -33,3 +33,5 @@ of that which goes on forever,
 seeing with both eyes at once. 
 
 #### Traces
+
+[Make the transition](https://www.youtube.com/watch?v=29qq0Vn-f1s)

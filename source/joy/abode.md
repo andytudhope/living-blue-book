@@ -30,3 +30,5 @@ not forsake his own blood.
 #### Traces
 
 [Wayfarers Wonder](https://youtu.be/Jg78tc5bWas?t=2601)
+
+[Beloved Lovers](https://www.youtube.com/watch?v=l8V0nbLeW98)

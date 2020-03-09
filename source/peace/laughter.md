@@ -5,10 +5,6 @@ title: Laughter
 
 # Laughter
 
-"Music is all around it, and there the heart partakes of the joy of the Infinite Sea." — Kabîr
-
----
-
 I died listening to _Al-Haqq_,
 happily and with my whole heart:
 blown a part of something much bigger,

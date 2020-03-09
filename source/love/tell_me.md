@@ -26,7 +26,7 @@ Where amongst the scattered and broken
 shards is there not the scent of majesty?
 
 Where is the multitude summed to one
-but in thee?"
+but in Thee?"
 
 #### Traces
 

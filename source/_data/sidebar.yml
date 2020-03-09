@@ -185,10 +185,10 @@ values:
         path: golden_locks.html
       - title: Reverent
         path: reverent.html
-      - title: Remainder
-        path: remainder.html
       - title: Laughter
         path: laughter.html
+      - title: Remainder
+        path: remainder.html
   - title: Knowledge
     path: knowledge_repo
   

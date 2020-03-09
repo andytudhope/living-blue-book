@@ -40,9 +40,9 @@ in our shared heritage, mixed blood
 which beats remembrance
 of you and everything you yearned for:
 
-shalom, ou voorvader, 
-ek weet jy is in die plek van sielerus
-hier, in die hart van God. 
+_shalom, ou voorvader,_ 
+_ek weet jy is in die plek van sielerus_
+_hier, in die hart van God._ 
 
 #### Traces
 

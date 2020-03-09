@@ -7,6 +7,9 @@ title: Knowledge Repository
 
 "No doubt is there about this Book: It is a guidance unto the God-fearing." — Qur'an 2:1
 
+"I offer to Thee the only thing I have:
+My capacity of being filled with Thee." — Sufi Prayer
+
 "I'm happy even before I have a reason
 I'm full of Light even before the sky
 Can greet the sun or the moon.
@@ -295,6 +298,8 @@ what you travel around wishing to find,
 lose yourself as lovers lose themselves,
 and you'll be that." — Farīd ud-Dīn ʿAṭṭār
 
+"Longing is a living prayer of love \[...\] In the ocean of love's longing, the ego is doomed. The primal cry of the soul takes the lover beyond this world and the next, straight to Him who is our deepest desire \[...\] The secret of love's union is the He unites with Himself in the heart of His lover. The lover who gives himself to longing participates in this mystery \[...\] Love is both the longing for union and the bliss of union. Love is the sadness of separation and the knowledge that there is no separation." — Llewellyn Vaughan-Lee
+
 "I was passionate,
 filled with longing,
 I searched
@@ -306,6 +311,10 @@ found me,
 I was at home." — Lalla-Ded
 
 "Say: All is from Allah..." — Qur'an 4:78
+
+"Was it not I that summoned thee to My service?
+Did I not make thee busy with my name?
+Thy calling 'Allah!' was My 'Here I am.'"
 
 "A flash illumined all my soul;
 The heart of my heart opened wide.
