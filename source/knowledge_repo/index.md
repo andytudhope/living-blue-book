@@ -44,7 +44,7 @@ That indeed, indeed, God is real." — Khwāja Shams-ud-Dīn Muḥammad Ḥāfe�
 But sure, a mystery here abides,
 A Something is there for us to know." — Lalla-Ded
 
-"You are that reflected eye and He is the light of that Seeing. The eyes of the ReaL see with the eye of the Seer.
+"You are that reflected eye and He is the light of that Seeing. The eyes of the Real see with the eye of the Seer.
 The cosmos becomes the man, the man the cosmos - there is no clearer explanation than this!" — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
 
 "When you really look for me, you will see me instantly —
@@ -77,6 +77,8 @@ love." – Rābiʿa al-ʿAdawiyya al-Qaysiyya hereafter called Rābiʿa Basri
 
 "This is that mystic religion which, though it has nothing in it but that same spirit, that same truth, and that same life, which always was and always must be the religion of all God’s holy angels and saints in heaven, is by the wisdom of this world accounted to be madness." — [William Law](http://www.passtheword.org/William-Law/)
 
+The words of the poets are not abstract but specific, not idea but thing \[...\] The poet, like an applied scientist, sticks to data and tries, with the poverty and spice of language, to recreate that experience of observation" — Willis Barnstone
+
 "I am no prophet — and here’s no great matter;
 I have seen the moment of my greatness flicker,
 And I have seen the eternal Footman hold my coat, and snicker,
@@ -100,9 +102,16 @@ Therefore you have no need to look beyond yourself; what you seek is within you,
 is played without ceasing,
 and its sound is love" — Kabîr
 
+"No, it is not possible
+to throw away this love." — Mirabai
+
 "Let your worship song be silence" — Lalla-Ded
 
 "You are waiting for me to describe what this silence is so that you can compare it, interpret it, carry it away and bury it. It cannot be described. What can be described is the known and freedom from the known can come into being only when there is a dying every day to the known, to the hurts, the flatteries, to all the images you have made, to all your experiences \[...\] That silence which is not the silence of the ending of noise is only a small beginning. It is like going through a small hole to an enormous, wide, expansive ocean, to an immeasurable, timeless state." — Jiddu Krishnamurti
+
+"Without a place and with a place
+to rest — living darkly with no ray
+of light — I burn myself away" — St John of the Cross
 
 "Isn't that a sort of parallel of the process that every human being has to go through in his inner life in order to first achieve the affirmation of what one is, then have the courage to let that identity go in order to find the way back. I think this is what music is about." — Daniel Barenboim
 
@@ -166,6 +175,10 @@ that first set you off and drew you on and that you were
 more marvelous in your simple wish to find a way
 than the gilded roofs of any destination you could reach" — David Whyte
 
+"It's time
+with all your colours and eternities
+to free me." — Mirabai
+
 "We need the awkward truth of poetry. We need its indirect insistence on the magic of listening.
 [...]
 We need the voice that speaks to our joys, our childhoods, and to the Gordian knots of our private and national condition. A voice that speaks to our doubts, our fears, and to all the unsuspected dimensions that make us both human and beings touched by the whispering of the stars." — Ben Okri
@@ -200,6 +213,9 @@ Will guide you along the Way" — Ryokan
 
 "Verily in the remembrance of Allah do hearts find rest and satisfaction!" — Qur'an 13:28
 
+"Those awake have a common world.
+Those sleeping drop into a private realm." — Heraclitus
+
 "Sometimes he went to her house, and then they liked to sit on the sea terrace, drenched by salt spray, watching the dawn of the whole world on the horizon." — Gabriel García Márquez 
 
 "In the chamber of emptiness a light shines and joy is here to stay." — Chuang Tzu 
@@ -221,6 +237,9 @@ Of your own holy body." — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīr�
 And what I assume you shall assume
 For every atom belonging to me 
 As good belongs to you." — Walt Whitman
+
+"The bow's name is life,
+but its work is death" — Heraclitus
 
 "There was a Door to which I found no Key:
 There was a Veil through which I could not see:
@@ -314,13 +333,23 @@ I was at home." — Lalla-Ded
 
 "Was it not I that summoned thee to My service?
 Did I not make thee busy with my name?
-Thy calling 'Allah!' was My 'Here I am.'"
+Thy calling 'Allah!' was My 'Here I am.'" — Jalāl ad-Dīn Muhammad Rūmī
 
 "A flash illumined all my soul;
 The heart of my heart opened wide.
 O joy, O bliss, what do I find!
 My love, my love you are here
 And you are here, my love, my all!" — Swami Vivekananda
+
+"Love does not belong to time, but to the eternal moment of the soul. Each time we repeat His name it is for the first time. Each moment is an opportunity to say the name of our Beloved." — Llewellyn Vaughan-Lee
+
+"Love has come and it flows like blood beneath my skin, through my veins.
+It has emptied me of myself and filled me with the Beloved.
+The Beloved has penetrated every cell of my body.
+Of myself there remains only a name, everything else is Him." — — Jalāl ad-Dīn Muhammad Rūmī
+
+"I want union with Him and He wants separation;
+thus I leave what I want so His wish comes true." — al-Ghazzâlî
 
 "We have not come here to take prisoners, 
 But to surrender ever more deeply 
@@ -351,6 +380,17 @@ That peal without a sound" — Joseph Lamport
 There are the hidden banner and the secret canopy:
 There the sound of the unseen bells is heard.
 Kabîr says: “There adoration never ceases; there the Lord of the Universe sitteth on His throne.”" — Kabîr
+
+"For a human being,
+character is godly." — Heraclitus
+
+"So few grains of happiness
+measured against all the dark,
+and still the scales balance.
+
+The world asks of us
+only the strength we have and we give it.
+Then it asks more, and we give it." — Jane Hirschfield
 
 "He has raised up the heavens. He has set the balance" — Qur'an 55:7
      
@@ -588,7 +628,7 @@ could they possibly say?" — Mary Oliver
 "Hold this moment forever, I tell myself; it may never come again." — Pico Iyer
 
 "as when some Man apart
-Answers aloud the Question in his Heart—1400
+Answers aloud the Question in his Heart
 'The Sun of my Perfection is a Glass
 Wherein from _Seeing_ into _Being_ pass
 All who, reflecting as reflected see
@@ -598,7 +638,7 @@ Is comprehensive of Infinity:
 Nor yet _Themselves_: no Selves, but of The All
 Fractions, from which they split and whither fall.
 As Water lifted from the Deep, again
-Falls back in individual Drops of Rain 1410
+Falls back in individual Drops of Rain
 Then melts into the Universal Main.
 All you have been, and seen, and done, and thought,
 Not _You_ but _I_, have seen and been and wrought"  — Farīd ud-Dīn ʿAṭṭār
@@ -810,6 +850,8 @@ What the Last Dawn of Reckoning shall read." — Omar Khayyam
 And the end and the beginning were always there
 Before the beginning and after the end.
 And all is always now." — T. S. Eliot
+
+"Whoever has sought Me has found Me. Whoever has found Me has come to know Me. Whoever has known Me has loved Me. Whoever has loved Me I have slain. Whomever I have slain the payment of the blood money is on Me, and I will Myself be the payment for the blood money that I owe." — _Hadith Qudsi_
 
 "Say, He is Allah, [who is] One,
 Allah, the Eternal Refuge.

@@ -31,3 +31,5 @@ but in Thee?"
 #### Traces
 
 [Full circle](https://youtu.be/Zn_qirpdBag?t=35 "Elton and the King")
+
+[Of dervishes](https://youtu.be/0V0gq8DF2-0?t=2298)

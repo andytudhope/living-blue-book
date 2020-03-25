@@ -191,4 +191,18 @@ values:
         path: remainder.html
   - title: Knowledge
     path: knowledge_repo
+  - title: Surrender
+    path: surrender
+    children:
+      - title: Eland Sky
+        path: eland_sky.html
+      - title: Use Me
+        path: use_me.html
+      - title: Gathering
+        path: gathering.html
+      - title: Open Earth
+        path: open_earth.html
+      - title: The Kramat
+        path: kramat.html
+
   

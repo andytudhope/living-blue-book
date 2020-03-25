@@ -93,3 +93,8 @@ book:
     remainder: remainder.html
   knowledge:
     index: index.html
+  surrender:
+    use_me: use_me.html
+    gathering: gathering.html
+    open_earth: open_earth.html
+    kramat: kramat.html
