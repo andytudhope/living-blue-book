@@ -94,6 +94,7 @@ book:
   knowledge:
     index: index.html
   surrender:
+    eland_sky: eland_sky.html
     use_me: use_me.html
     gathering: gathering.html
     open_earth: open_earth.html
