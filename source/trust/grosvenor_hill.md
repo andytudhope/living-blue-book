@@ -50,4 +50,6 @@ but the eye to which it grants vision.
 
 [Another history](https://www.youtube.com/watch?v=WUtAxUQjwB4 "Akala Schools Oxford")
 
-[Of love in this life](https://www.youtube.com/watch?v=Fz4ZOAsjW6g "Growing Up")
+[Far deeper](https://www.youtube.com/watch?v=bI5cdTptJK0 "Doris Lessing's Ancient Way to New Freedom")
+
+[Learn to love this life](https://www.youtube.com/watch?v=Fz4ZOAsjW6g "Growing Up")

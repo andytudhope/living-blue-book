@@ -7,6 +7,9 @@ title: Knowledge Repository
 
 "No doubt is there about this Book: It is a guidance unto the God-fearing." — Qur'an 2:1
 
+"I offer to Thee the only thing I have:
+My capacity of being filled with Thee." — Sufi Prayer
+
 "I'm happy even before I have a reason
 I'm full of Light even before the sky
 Can greet the sun or the moon.
@@ -41,6 +44,9 @@ That indeed, indeed, God is real." — Khwāja Shams-ud-Dīn Muḥammad Ḥāfe�
 But sure, a mystery here abides,
 A Something is there for us to know." — Lalla-Ded
 
+"You are that reflected eye and He is the light of that Seeing. The eyes of the Real see with the eye of the Seer.
+The cosmos becomes the man, the man the cosmos - there is no clearer explanation than this!" — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
+
 "When you really look for me, you will see me instantly —
 you will find me in the tiniest house of time." — Kabîr
 
@@ -61,11 +67,17 @@ love." – Rābiʿa al-ʿAdawiyya al-Qaysiyya hereafter called Rābiʿa Basri
 
 "Naught is, save God: and all that is, is God." — Farīd ud-Dīn ʿAṭṭār
 
+"Love's conqueror is he whom love conquers" — [Hakim Abul-Majd Majdūd ibn Ādam Sanā'ī Ghaznavi](https://www.youtube.com/watch?v=CpAh_VYexh0)
+
+"This identity out of the One into the One and with the One is the source and fountainhead and breaking forth of glowing Love." — Meister Eckhart
+
 "The real basis of their poetry is a loftily inculcated ethical system, which recognises in purity of heart, charity, self-renunciation, and bridling of the passions, the necessary conditions of eternal happiness." — Reynold Nicholson
 
 "Each person is a carbon copy of the _lawḥ maḥfuẓ_ (guarded tablet). Each of us carries the same copy of consciousness. The copy of Qur'an is in the heart, but we must make an effort to read it. That reading means living it, and that living it is actually unifying the inward and outward." — Shaykh Fadhlalla Haeri
 
 "This is that mystic religion which, though it has nothing in it but that same spirit, that same truth, and that same life, which always was and always must be the religion of all God’s holy angels and saints in heaven, is by the wisdom of this world accounted to be madness." — [William Law](http://www.passtheword.org/William-Law/)
+
+The words of the poets are not abstract but specific, not idea but thing \[...\] The poet, like an applied scientist, sticks to data and tries, with the poverty and spice of language, to recreate that experience of observation" — Willis Barnstone
 
 "I am no prophet — and here’s no great matter;
 I have seen the moment of my greatness flicker,
@@ -90,9 +102,18 @@ Therefore you have no need to look beyond yourself; what you seek is within you,
 is played without ceasing,
 and its sound is love" — Kabîr
 
-"Isn't that a sort of parallel of the process that every human being has to go through in his inner life in order to first achieve the affirmation of what one is, then have the courage to let that identity go in order to find the way back. I think this is what music is about." — Daniel Barenboim
+"No, it is not possible
+to throw away this love." — Mirabai
 
 "Let your worship song be silence" — Lalla-Ded
+
+"You are waiting for me to describe what this silence is so that you can compare it, interpret it, carry it away and bury it. It cannot be described. What can be described is the known and freedom from the known can come into being only when there is a dying every day to the known, to the hurts, the flatteries, to all the images you have made, to all your experiences \[...\] That silence which is not the silence of the ending of noise is only a small beginning. It is like going through a small hole to an enormous, wide, expansive ocean, to an immeasurable, timeless state." — Jiddu Krishnamurti
+
+"Without a place and with a place
+to rest — living darkly with no ray
+of light — I burn myself away" — St John of the Cross
+
+"Isn't that a sort of parallel of the process that every human being has to go through in his inner life in order to first achieve the affirmation of what one is, then have the courage to let that identity go in order to find the way back. I think this is what music is about." — Daniel Barenboim
 
 "The while amazed between
 His Beauty and His Majesty
@@ -102,6 +123,26 @@ I stood in silent ecstasy" — Rābiʿa Basri
 rejoice in the way things are.
 When you realize there is nothing lacking,
 the whole world belongs to you" — Lao Tzu
+
+"This is a great and precious gift; but if the poet remains content with his gift, if he persists in worshipping the beauty in nature without going on to make himself capable, through selflessness, of apprehending Beauty as it is in the divine Ground, then he is only an idolater." — Aldous Huxley
+
+"Earth's the right place for love:
+I don't know where it's likely to go better.
+I'd like to go by climbing a birch tree,
+And climb black branches up a snow-white trunk
+Toward heaven, till the tree could bear no more,
+but dipped its top and set me down again.
+That would be good both going and coming back.
+One could do worse than be a swinger of birches." — Robert Frost
+
+"But there's a tree, of many, one,
+A single field which I have look'd upon
+\[...\]
+Not in entire forgetfulness,
+          And not in utter nakedness,
+But trailing clouds of glory do we come 
+               From God, who is our home:
+Heaven lies about us in our infancy!" — William Wordsworth
 
 "To understand just one life, you have to swallow the world. [I told you that](https://www.youtube.com/watch?v=BxWl-O19i-I)." — Salman Rushdie
 
@@ -115,11 +156,28 @@ the whole world belongs to you" — Lao Tzu
 Will be the Sea
 Whatever the drop's philosophy." — Farīd ud-Dīn ʿAṭṭār
 
+"When I reached Him I saw that His remembering of me preceded my remembrance of Him." — Bâyezîd Bistamî
+
+"Know that when you learn to lose yourself, you will reach the Beloved. There is no other lesson to be learnt, and more than this is not known by me." — Sheikh Abdullah Ansari of Herat
+
 "Go, go, go, said the bird: human kind
 Cannot bear very much reality.
 Time past and time future
 What might have been and what has been
 Point to one end, which is always present." — T. S. Eliot
+
+"So that one day you realised that what you wanted
+had already happened long ago and in the dwelling place
+you had lived in before you began,
+and that every step along the way, you had carried
+the heart and the mind and the promise
+that first set you off and drew you on and that you were
+more marvelous in your simple wish to find a way
+than the gilded roofs of any destination you could reach" — David Whyte
+
+"It's time
+with all your colours and eternities
+to free me." — Mirabai
 
 "We need the awkward truth of poetry. We need its indirect insistence on the magic of listening.
 [...]
@@ -134,7 +192,11 @@ Beneath the music from a farther room.
 
 "Only art penetrates \[...\] the seeming realities of this world. There is another reality, the genuine one, which we lose sight of. This other reality is always sending us hints which, without art, we can’t receive." — Saul Bellow
 
+"One of the functions of art is to give people the words to know their own experience… Storytelling is a tool for knowing who we are and what we want." — Ursula K. Le Guin
+
 "The most important thing is to explain to people what sound does [...] Why is it that there is an emotive quality to sound?  In other words, how to listen: how to attach yourself to the first sound in the hope of staying with it until the end." — Daniel Barenboim
+
+"I had been drawn into these tones which in their apparent monotony recalled the eternal recurrence of all things existing and knocked at the doors of your own feelings and called forth, step by step, all that had been moving in you without your knowledge . . . laid bare something that had always been there and now became obvious to you with a vividness that made your heart pound \[...\] a rushing of wheels out of eternity into eternity, without measure or limit or goal, a breathless, reckless tightrope-walker's run over knife-edge precipices, through one eternal present, towards an awareness that was freedom, and power, and beyond all thought. And, suddenly, in the midst of an uprising sweep: a stop and a deadly silence. Brutal. Honest. Clean." — Muhammad Asad
 
 "Had I known how listening is superior to speaking, I would not have wasted my life preaching." — Farīd ud-Dīn ʿAṭṭār
 
@@ -150,6 +212,9 @@ Will guide you along the Way" — Ryokan
 "I didn’t want to compromise the anthemic, hymn-like quality. I didn’t want it to get too punchy. I didn’t want to start a fight in the song. I wanted a revelation in the heart rather than a confrontation or a call-to-arms or a defense." — Leonard Cohen
 
 "Verily in the remembrance of Allah do hearts find rest and satisfaction!" — Qur'an 13:28
+
+"Those awake have a common world.
+Those sleeping drop into a private realm." — Heraclitus
 
 "Sometimes he went to her house, and then they liked to sit on the sea terrace, drenched by salt spray, watching the dawn of the whole world on the horizon." — Gabriel García Márquez 
 
@@ -172,6 +237,9 @@ Of your own holy body." — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīr�
 And what I assume you shall assume
 For every atom belonging to me 
 As good belongs to you." — Walt Whitman
+
+"The bow's name is life,
+but its work is death" — Heraclitus
 
 "There was a Door to which I found no Key:
 There was a Veil through which I could not see:
@@ -199,7 +267,14 @@ The Nothing it set out from--Oh, make haste!" — Omar Khayyam
 
 "Die into your nothingness and you will live by the light of the eternal soul." — Shaykh Fadhlalla Haeri
 
+"0 joy! that in our embers
+Is something that doth live,
+That Nature yet remembers
+What was so fugitive!" — William Wordsworth
+
 "There is no insurmountable solitude. All paths lead to the same goal: to convey to others what we are. And we must pass through solitude and difficulty, isolation and silence in order to reach forth to the enchanted place where we can dance our clumsy dance and sing our sorrowful song — but in this dance or in this song there are fulfilled the most ancient rites of our conscience in the awareness of being human and of believing in a common destiny." — Pablo Neruda
+
+"The desert is bare and clean and knows no compromise. It sweeps out of the heart of man all the lovely fantasies that could be used as a masquerade for wishful thinking, and thus makes him free to surrender himself to an Absolute that has no image: the farthest of all that is far and yet the nearest of all that is near." — Muhammad Asad
 
 "One thing only is needful: the knowledge of the simple and clear truth which finds place in every soul that is not stupefied by religious and scientific superstitions — the truth that for our life one law is valid — the law of love, which brings the highest happiness to every individual as well as to all mankind. Free your minds from those overgrown, mountainous imbecilities which hinder your recognition of it, and at once the truth will emerge from amid the pseudo-religious nonsense that has been smothering it: the indubitable, eternal truth inherent in man, which is one and the same in all the great religions of the world." — Leo Tolstoy to Mahatma Ghandi
 
@@ -221,7 +296,12 @@ the star-sound Tsau, sounding Tsau! Tsau!" — /Han≠kasso
 
 "After me, nothing. And in that nothing, something is born from brave new souls, something like paradise, drifting in from the horizon." — Ben Okri
 
-"Living in a place that may capsize at any moment is not a problem, it is a gift. South is South. A spiritual backwater? Wonderful! Remote outpost? Brilliant! It is right here that we find our centre, right here that teachers appear, in these beautiful and bitter circumstances. And an unbroken transmission of the light is already passing from heart to heart all the way to Cape Town." — Anthony Osler 
+"Living in a place that may capsize at any moment is not a problem, it is a gift. South is South. A spiritual backwater? Wonderful! Remote outpost? Brilliant! It is right here that we find our centre, right here that teachers appear, in these beautiful and bitter circumstances. And an unbroken transmission of the light is already passing from heart to heart all the way to Cape Town." — Anthony Osler
+
+"And we are put on earth a little space,
+That we may learn to bear the beams of love, 
+And these black bodies and this sun-burnt face
+Is but a cloud, and like a shady grove." — William Blake
 
 "Everything else can wait, but the search for God cannot wait, and love one another." — George Harrison's final public statement
 
@@ -237,6 +317,8 @@ what you travel around wishing to find,
 lose yourself as lovers lose themselves,
 and you'll be that." — Farīd ud-Dīn ʿAṭṭār
 
+"Longing is a living prayer of love \[...\] In the ocean of love's longing, the ego is doomed. The primal cry of the soul takes the lover beyond this world and the next, straight to Him who is our deepest desire \[...\] The secret of love's union is the He unites with Himself in the heart of His lover. The lover who gives himself to longing participates in this mystery \[...\] Love is both the longing for union and the bliss of union. Love is the sadness of separation and the knowledge that there is no separation." — Llewellyn Vaughan-Lee
+
 "I was passionate,
 filled with longing,
 I searched
@@ -249,11 +331,25 @@ I was at home." — Lalla-Ded
 
 "Say: All is from Allah..." — Qur'an 4:78
 
+"Was it not I that summoned thee to My service?
+Did I not make thee busy with my name?
+Thy calling 'Allah!' was My 'Here I am.'" — Jalāl ad-Dīn Muhammad Rūmī
+
 "A flash illumined all my soul;
 The heart of my heart opened wide.
 O joy, O bliss, what do I find!
 My love, my love you are here
 And you are here, my love, my all!" — Swami Vivekananda
+
+"Love does not belong to time, but to the eternal moment of the soul. Each time we repeat His name it is for the first time. Each moment is an opportunity to say the name of our Beloved." — Llewellyn Vaughan-Lee
+
+"Love has come and it flows like blood beneath my skin, through my veins.
+It has emptied me of myself and filled me with the Beloved.
+The Beloved has penetrated every cell of my body.
+Of myself there remains only a name, everything else is Him." — — Jalāl ad-Dīn Muhammad Rūmī
+
+"I want union with Him and He wants separation;
+thus I leave what I want so His wish comes true." — al-Ghazzâlî
 
 "We have not come here to take prisoners, 
 But to surrender ever more deeply 
@@ -285,11 +381,24 @@ There are the hidden banner and the secret canopy:
 There the sound of the unseen bells is heard.
 Kabîr says: “There adoration never ceases; there the Lord of the Universe sitteth on His throne.”" — Kabîr
 
+"For a human being,
+character is godly." — Heraclitus
+
+"So few grains of happiness
+measured against all the dark,
+and still the scales balance.
+
+The world asks of us
+only the strength we have and we give it.
+Then it asks more, and we give it." — Jane Hirschfield
+
 "He has raised up the heavens. He has set the balance" — Qur'an 55:7
      
 "We are God's, and to Him shall we return." — Baha'u'llah
 
 "Those drunk with God, tho’ they be thousands, are yet one" — Jalāl ad-Dīn Muhammad Rūmī
+
+"He has a special tenderness for His own, personal idiots." — Llewellyn Vaughan-Lee
 
 "To lead you to an overwhelming question ...
 Oh, do not ask, “What is it?”
@@ -319,7 +428,16 @@ When I saw Him dwelling in me,
 I realized that He was the Everything
 and I was nothing." — Lalla-Ded
 
+"A mirror remains that can't be broken
+because it faces nothing,
+because its inside everything.
+\[...\]
+Perhaps at certain heights
+questions and answers are exactly the same." — Roberto Juarroz
+
 "The ancient alchemist's art was to transmute the base lead of the self into the golden soul through practical spiritual disciplines, thereby spiritualising matter and materialising spirit - the perfect blending of lights." — Shaykh Fadhlalla Haeri
+
+"_Vos estis tam sancti sicut vultis_" — Ruysbroeck
 
 _omnis mundi creatura_
 _quasi liber et pictura_
@@ -373,6 +491,17 @@ The moment in the arbour where the rain beat,
 The moment in the draughty church at smokefall
 Be remembered; involved with past and future.
 Only through time time is conquered." — T. S. Eliot
+
+"You say you’ve unrolled the carpet of time,
+step then beyond life itself and reason,
+till you arrive at God’s command." — Hakim Abul-Majd Majdūd ibn Ādam Sanā'ī Ghaznavi
+
+"Only god doesn't pain me today.
+Is it because today doesn't exist?" — Roberto Juarroz 
+
+"The Outer and the Inner, the I and the World, are to him not opposite - and mutually opposed - entities, but only different aspects of an unchanging present; his life is not dominated by secret fears; and whenever he does things, he does them because outward necessity and not a desire for inner security demands action. In result, he has not progressed in material achievement as rapidly as the Westerner - but he has kept his soul together." — Muhammad Asad
+
+"Then there is no achieving, no ladder to climb; there is only the first step and the first step is the everlasting step." — Jiddu Krishnamurti
 
 "So, instead of trying to pull ourselves up by our bootlaces, let's take off our shoes altogether, feel the earth beneath our feet and the sun in our hair. Then, when we step forward with helping hands, we will leave no trace." — Anthony Osler
 
@@ -498,6 +627,22 @@ could they possibly say?" — Mary Oliver
 
 "Hold this moment forever, I tell myself; it may never come again." — Pico Iyer
 
+"as when some Man apart
+Answers aloud the Question in his Heart
+'The Sun of my Perfection is a Glass
+Wherein from _Seeing_ into _Being_ pass
+All who, reflecting as reflected see
+Themselves in Me, and Me in Them: not Me,
+But all of Me that a contracted Eye
+Is comprehensive of Infinity:
+Nor yet _Themselves_: no Selves, but of The All
+Fractions, from which they split and whither fall.
+As Water lifted from the Deep, again
+Falls back in individual Drops of Rain
+Then melts into the Universal Main.
+All you have been, and seen, and done, and thought,
+Not _You_ but _I_, have seen and been and wrought"  — Farīd ud-Dīn ʿAṭṭār
+
 "Today we weep, tonight we dance. There is no conclusion to be reached about all this. Just coming across such delight and having our hearts opened is precious beyond compare." — Anthony Osler
 
 "O spirit, make thy head in search and seeking like the water of a stream. 
@@ -565,6 +710,8 @@ Of your own Being!" — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
 "This was my master's way. He not only knew how to read the great book of nature, but also knew the way monks read the books of Scripture, and how they thought through them \[...\] His explanation, moreover, seemed to me at that point so obvious that my humiliation at not having discovered it by myself was surpassed only by my pride at now being a sharer of it, and I was almost congratulating myself on my insight. Such is the power of truth that, like good, it is its own propagator." — Umberto Eco
 
+"A quiet academic career did not attract me. I felt a yearning to come into more intimate grips with life, to enter it without any of those carefully contrived, artificial defences which security-minded people love to build up around themselves; and I wanted to find by myself an approach to the spiritual order of things which, I knew, must exist." — Muhammad Asad
+
 "There is no greater gift a people can be given than that they live a life touched with fable." — Ben Okri
 
 "He just likes to hang around, dozing, smiling, sniffing the incense, watching our coming and going. It makes me happy to have him here; a reminder of our commitment to waking up, and an honouring of those who have made this commitment before us. When the children have their weekends here, the boys sleep in the zendo, which they call the China Church. One night Alpheus went up to the statue in the middle of the night and spoke to the Buddha in his mock-Mandarin; when the story got out in the morning, Margie asked Alpheus if the Buddha had answered him.  'Oh yes,' he said, 'he said to me, "Hello Alpheus, you are a big handsome boy.'" — Anthony Osler
@@ -575,9 +722,13 @@ Of your own Being!" — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
 "And in that moment, he was finally able to accept it all. In the deepest recesses of his soul, Tsukuru Tanazaki understood. One heart is not connected to another through harmony alone. They are, instead, linked deeply through their wounds. Pain linked to pain, fragility to fragility. There is no silence without a cry of grief, no forgiveness without bloodshed, no acceptance without a passage through acute loss. That is what lies at the root of true harmony." — Haruko Murakami
 
-"And killing the Buddha means putting myself aside and taking into my heart whoever is in front of me." — Anthony Osler
+"Because this unfamiliar world is so entirely different from all that you have known at home; because it offers so much that is strikingly strange in image and sound, it brushes you sometimes, if you permit yourself to be attentive, with a momentary remembrance of things long known and long forgotten: those intangible realities of your own life. And when this breath of remembrance reaches you from beyond the abyss that separates your world from that other, that unfamiliar one, you ask yourself whether it is not perhaps herein - and only herein - that the meaning of all wandering lies: to become aware of the strangeness of the world around you and thereby reawaken to your own, personal, forgotten reality." — Muhammad Asad
+
+"Muhammad must have sensed the full weight of revolution achieved, and known that to realize a dream was only to wake up to a more complex reality." — Lesley Hazelton"
 
 "Everyone, regardless, always, of everything. Not to mention the existential sorrow we all might be afflicted with, which is that we, and what we love, will soon be annihilated. Which sounds more dramatic than it might. Let me just say dead. Is this sorrow, of which our impending being no more might be the foundation, the great wilderness? Is sorrow the true wild? And if it is — and if we join them — your wild to mine — what’s that? For joining, too, is a kind of annihilation. What if we joined our sorrows, I’m saying. I’m saying: What if that is joy?" — Ross Gay
+
+"And killing the Buddha means putting myself aside and taking into my heart whoever is in front of me." — Anthony Osler
 
 "It had to teach her to think of love as a state of grace: not the means to anything but the alpha and omega, an end in itself." — Gabriel García Márquez
 
@@ -653,6 +804,22 @@ Has All become, the All is “I” and Bliss.
 Know thou art That, Sannyasin bold! Say –
 “Om Tat Sat, Om!”" — Swami Vivekananda
 
+"By precept and by example, the Avatar teaches that this transforming knowledge is possible, that all sentient beings are called to it and that, sooner or later, in one way or another, all must finally come to it." — Aldous Huxley
+
+"When the traveller on the path has completed
+the circuit of return to separation, then his last point as man is
+joined to the first of the Real." — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
+
+"And I, infinitesimal being,
+drunk with the great starry
+void,
+likeness, image of
+mystery,
+I felt myself a pure part
+of the abyss,
+I wheeled with the stars,
+my heart broke free on the open sky" — Pablo Neruda
+
 "I will gather all people into well-being
      Never again will they be divided or abased
 Take out my hidden treasure
@@ -683,6 +850,8 @@ What the Last Dawn of Reckoning shall read." — Omar Khayyam
 And the end and the beginning were always there
 Before the beginning and after the end.
 And all is always now." — T. S. Eliot
+
+"Whoever has sought Me has found Me. Whoever has found Me has come to know Me. Whoever has known Me has loved Me. Whoever has loved Me I have slain. Whomever I have slain the payment of the blood money is on Me, and I will Myself be the payment for the blood money that I owe." — _Hadith Qudsi_
 
 "Say, He is Allah, [who is] One,
 Allah, the Eternal Refuge.

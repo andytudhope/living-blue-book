@@ -1,6 +1,7 @@
 book:
   love:
     write_you: write_you.html
+    tell_me: tell_me.html
     divan: divan.html
     mountaintop: mountaintop.html
     promised_matter: promised_matter.html
@@ -13,6 +14,8 @@ book:
     loves_dye: loves_dye.html
     dependence: dependence.html
   trust:
+    read: read.html
+    seams: seams.html
     sun_halo: sun_halo.html
     kathmandu_calling: kathmandu_calling.html
     mont_serat: mont_serat.html
@@ -23,24 +26,36 @@ book:
     sickly: sickly.html
     duiker_doings: duiker_doings.html
     thomas_herd: thomas_herd.html
+    pages_of_the_sky: pages_of_the_sky.html
+    atman: atman.html
   faith:
     obsession: obsession.html
     transmission: transmission.html
     take_me: take_me.html
+    pilgrimage: pilgrimage.html
     leaving_time: leaving_time.html
+    highlands: highlands.html
     no_words: no_words.html
+    nothing: nothing.html
     own_up: own_up.html
     coastlines: coastlines.html
     resurrection: resurrection.html
+    rosenhof: rosenhof.html
+    centred: centred.html
+    longing_life: longing_life.html
     celebrate: celebrate.html
   responsibility:
-    returned: returned.html
+    oasis: oasis.html
+    xhariep: xhariep.html
+    wepener: wepener.html
     rainshine: rainshine.html
     simplicity: simplicity.html
     dying_to_remember: dying_to_remember.html
     walk_in: walk_in.html
     no_proof: no_proof.html
+    returned: returned.html
     sadratu_l_muntaha: sadratu_l_muntaha.html
+    al_matin: al_matin.html
     the_choice: the_choice.html
     urvatu_l_vuthqa: urvatu_l_vuthqa.html
   joy:
@@ -56,11 +71,14 @@ book:
     overberg: overberg.html
     kogelberg: kogelberg.html
     the_cape: the_cape.html
+    abode: abode.html
     al_ghafur: al_ghafur.html
   peace:
     lunch: lunch.html
+    coffee: coffee.html
     traces: traces.html
     forget_full: forget_full.html
+    upapa_africana: upapa_africana.html
     treatment: treatment.html
     star_signs: star_signs.html
     dream_tongue: dream_tongue.html
@@ -72,5 +90,12 @@ book:
     golden_locks: golden_locks.html
     reverent: reverent.html
     laughter: laughter.html
+    remainder: remainder.html
   knowledge:
     index: index.html
+  surrender:
+    eland_sky: eland_sky.html
+    use_me: use_me.html
+    gathering: gathering.html
+    open_earth: open_earth.html
+    kramat: kramat.html
