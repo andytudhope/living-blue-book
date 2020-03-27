@@ -204,6 +204,8 @@ values:
         path: gathering.html
       - title: Open Earth
         path: open_earth.html
+      - title: Distilled
+        path: distilled.html
       - title: The Kramat
         path: kramat.html
 

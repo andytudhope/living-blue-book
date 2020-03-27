@@ -7,7 +7,7 @@ title: Open Earth
 
 Here is my praise for the pattern
 which winds it seamless way
-between all our separate worlds,
+between our separate worlds,
 or so it seems until you learn 
 to ask permission.
 
