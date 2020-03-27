@@ -32,5 +32,6 @@ if only to have their hearts break open
 in the light of an Other who has guessed
 that these vast grass plains are never lonely,
 not even when there is just one thing.
+
 One whispered, lovely nothing.
 

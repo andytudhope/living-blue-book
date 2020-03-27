@@ -198,6 +198,8 @@ values:
         path: eland_sky.html
       - title: Use Me
         path: use_me.html
+      - title: Beheld
+        path: beheld.html
       - title: Gathering
         path: gathering.html
       - title: Open Earth
