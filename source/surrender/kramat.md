@@ -33,6 +33,6 @@ left to give away: just the empty centre
 carved out by what really lasts
 and a white stone so bright
 that when the living come to reflect,
-they can barely open their eyes again
+they can barely open their eyes
 in the overwhelming light 
 that lives still.

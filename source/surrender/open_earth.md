@@ -19,7 +19,7 @@ between what is in the grave and what presses
 its forehead to the new grass on this bare earth.
 
 Carry it wisely while away
-from your dear home, young child:
+from home, young child:
 here for just a single moment
 to wonder in your limited ways
 at this multiversal imagination

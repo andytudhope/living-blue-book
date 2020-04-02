@@ -8,10 +8,10 @@ title: Distilled
 I fell asleep at the top of the stairs
 in a perfect patch of sun
 and woke up some time later
-still here, but utterly stuck.
+still here, utterly stuck.
 
 All I could do was open one eye
-about two millimetres wide:
+two millimetres wide:
 enough to see a dot of dune
 behind our house and sun
 streaming through the bushes
