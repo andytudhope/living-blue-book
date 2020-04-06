@@ -20,7 +20,7 @@ its forehead to the new grass on this bare earth.
 
 Carry it wisely while away
 from home, young child:
-here for just a single moment
+here for a single moment
 to wonder in your limited ways
 at this multiversal imagination
 of the only One.

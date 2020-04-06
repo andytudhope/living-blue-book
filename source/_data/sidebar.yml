@@ -196,6 +196,8 @@ values:
     children:
       - title: Eland Sky
         path: eland_sky.html
+      - title: Distilled
+        path: distilled.html
       - title: Use Me
         path: use_me.html
       - title: One Light
@@ -208,8 +210,6 @@ values:
         path: gathering.html
       - title: Open Earth
         path: open_earth.html
-      - title: Distilled
-        path: distilled.html
       - title: The Kramat
         path: kramat.html
 

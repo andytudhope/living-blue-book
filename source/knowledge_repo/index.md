@@ -5,7 +5,7 @@ title: Knowledge Repository
 
 # Building Wisdom, Bit By Bit
 
-"No doubt is there about this Book: It is a guidance unto the God-fearing." — Qur'an 2:1
+"This Book, there is no doubt in it — a guide to those who safeguard themselves with fearful awareness." — Qur'an 2:2
 
 "I offer to Thee the only thing I have:
 My capacity of being filled with Thee." — Sufi Prayer
