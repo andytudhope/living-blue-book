@@ -20,4 +20,4 @@ that same twinkle in your eye.
 
 #### Traces
 
-[The Last Fugue](https://www.youtube.com/watch?v=FzI5eSA-Eck&lc=Ugy3NRdEUO7ahXbntEx4AaABAg "Bach and Gould at their contrapuntal best")
+[The Last Fugue](https://www.youtube.com/watch?v=CpnfQntMisc&lc=Ughulywqq-AUCngCoAEC "Bach and Gould at their contrapuntal best")
