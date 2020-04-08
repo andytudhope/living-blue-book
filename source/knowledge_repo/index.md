@@ -39,6 +39,8 @@ Who need Divine Love every night.
 Come, join the courageous who have no choice but to bet their entire world
 That indeed, indeed, God is real." — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
+"The colour of Allah is upon us! And what better dye than that of Allah. It is Him we worship." Qur'an 2:138
+
 "For ever we come, for ever we go;
 \[...\]
 But sure, a mystery here abides,
@@ -809,6 +811,8 @@ Know thou art That, Sannyasin bold! Say –
 "When the traveller on the path has completed
 the circuit of return to separation, then his last point as man is
 joined to the first of the Real." — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
+
+"Indeed, to your Lord is the return." — Qur'an 96:8
 
 "And I, infinitesimal being,
 drunk with the great starry
