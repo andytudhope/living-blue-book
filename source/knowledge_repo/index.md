@@ -75,13 +75,15 @@ love." – Rābiʿa al-ʿAdawiyya al-Qaysiyya hereafter called Rābiʿa Basri
 
 "This identity out of the One into the One and with the One is the source and fountainhead and breaking forth of glowing Love." — Meister Eckhart
 
-"The real basis of their poetry is a loftily inculcated ethical system, which recognises in purity of heart, charity, self-renunciation, and bridling of the passions, the necessary conditions of eternal happiness." — Reynold Nicholson
-
 "Each person is a carbon copy of the _lawḥ maḥfuẓ_ (guarded tablet). Each of us carries the same copy of consciousness. The copy of Qur'an is in the heart, but we must make an effort to read it. That reading means living it, and that living it is actually unifying the inward and outward." — Shaykh Fadhlalla Haeri
 
 "This is that mystic religion which, though it has nothing in it but that same spirit, that same truth, and that same life, which always was and always must be the religion of all God’s holy angels and saints in heaven, is by the wisdom of this world accounted to be madness." — [William Law](http://www.passtheword.org/William-Law/)
 
-The words of the poets are not abstract but specific, not idea but thing \[...\] The poet, like an applied scientist, sticks to data and tries, with the poverty and spice of language, to recreate that experience of observation" — Willis Barnstone
+"The real basis of their poetry is a loftily inculcated ethical system, which recognises in purity of heart, charity, self-renunciation, and bridling of the passions, the necessary conditions of eternal happiness." — Reynold Nicholson
+
+"In fact, I think I would like it best if my writing could empty me further of them, so that I might become a better vessel for new blue things." — Maggie Nelson
+
+"The words of the poets are not abstract but specific, not idea but thing \[...\] The poet, like an applied scientist, sticks to data and tries, with the poverty and spice of language, to recreate that experience of observation" — Willis Barnstone
 
 "I am no prophet — and here’s no great matter;
 I have seen the moment of my greatness flicker,
@@ -221,6 +223,11 @@ Will guide you along the Way" — Ryokan
 Those sleeping drop into a private realm." — Heraclitus
 
 "Sometimes he went to her house, and then they liked to sit on the sea terrace, drenched by salt spray, watching the dawn of the whole world on the horizon." — Gabriel García Márquez 
+
+"I am
+to look
+at your face,
+just see it." — Lizzy Mazzarella
 
 "In the chamber of emptiness a light shines and joy is here to stay." — Chuang Tzu 
 
@@ -570,6 +577,8 @@ And Hell the Shadow from a Soul on fire,
 Cast on the Darkness into which Ourselves,
 So late emerged from, shall so soon expire." — Omar Khayyam
 
+"'The color of any planetary atmosphere viewed against the black of space and illuminated by a sunlike star will also be blue.' In which case blue is something of an ecstatic accident produced by void and fire." — Maggie Nelson
+
 "Of course I wake up finally
 thinking, how wonderful to be who I am,
 made out of earth and water,
@@ -628,6 +637,8 @@ could they possibly say?" — Mary Oliver
 "So, then, if you can’t ever end things neatly, can’t ever put them back quite the way you found them, surely the alternative is to remain stubbornly carbonated with possibility, to never rest from your rotation. To keep assembling stories between us, stories about how everything was everything, about how much we loved." — Ella Frances Sanders
 
 "To celebrate, or to dwindle into dullness, seems to me the law at work here." — Ben Okri
+
+"Nonetheless, he devotes his life to searching for it: thus begins the adventure, the high romance, the romance of seeking \[...\] In which case seeking itself is a spiritual error." — Maggie Nelson
 
 "Hold this moment forever, I tell myself; it may never come again." — Pico Iyer
 
@@ -726,6 +737,8 @@ Of your own Being!" — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
 "And in that moment, he was finally able to accept it all. In the deepest recesses of his soul, Tsukuru Tanazaki understood. One heart is not connected to another through harmony alone. They are, instead, linked deeply through their wounds. Pain linked to pain, fragility to fragility. There is no silence without a cry of grief, no forgiveness without bloodshed, no acceptance without a passage through acute loss. That is what lies at the root of true harmony." — Haruko Murakami
 
+"I can testify that it provides an example of how blue gives way to farkness - and then how, without warning, the darkness grows up into a cone of light." — Maggie Nelson
+
 "Because this unfamiliar world is so entirely different from all that you have known at home; because it offers so much that is strikingly strange in image and sound, it brushes you sometimes, if you permit yourself to be attentive, with a momentary remembrance of things long known and long forgotten: those intangible realities of your own life. And when this breath of remembrance reaches you from beyond the abyss that separates your world from that other, that unfamiliar one, you ask yourself whether it is not perhaps herein - and only herein - that the meaning of all wandering lies: to become aware of the strangeness of the world around you and thereby reawaken to your own, personal, forgotten reality." — Muhammad Asad
 
 "Muhammad must have sensed the full weight of revolution achieved, and known that to realize a dream was only to wake up to a more complex reality." — Lesley Hazelton"
@@ -735,6 +748,10 @@ Of your own Being!" — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 "And killing the Buddha means putting myself aside and taking into my heart whoever is in front of me." — Anthony Osler
 
 "It had to teach her to think of love as a state of grace: not the means to anything but the alpha and omega, an end in itself." — Gabriel García Márquez
+
+"At the bottom of the swimming pool, I watched the white winter light spangle the cloudy blue and I knew together they made God." — Maggie Nelson
+
+"Long and white, the road twists like a snake toward the far-off blue places, towards the bright edges of the earth." — Isabelle Eberhardt
 
 "If the eye of the heart is open, in each atom there will be one hundred secrets." — Farīd ud-Dīn ʿAṭṭār
 
@@ -856,6 +873,8 @@ What the Last Dawn of Reckoning shall read." — Omar Khayyam
 And the end and the beginning were always there
 Before the beginning and after the end.
 And all is always now." — T. S. Eliot
+
+"The do not signify romance. They were sent by no one in celebration of nothing. I had known them all along." — Maggie Nelson
 
 "Whoever has sought Me has found Me. Whoever has found Me has come to know Me. Whoever has known Me has loved Me. Whoever has loved Me I have slain. Whomever I have slain the payment of the blood money is on Me, and I will Myself be the payment for the blood money that I owe." — _Hadith Qudsi_
 
