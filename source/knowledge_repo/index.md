@@ -39,7 +39,9 @@ Who need Divine Love every night.
 Come, join the courageous who have no choice but to bet their entire world
 That indeed, indeed, God is real." — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
-"The colour of Allah is upon us! And what better dye than that of Allah. It is Him we worship." Qur'an 2:138
+"The colour of Allah is upon us! And what better dye than that of Allah. It is Him we worship." — Qur'an 2:138
+
+"That this blue exists makes my life a remarkable one, just to have seen it. To have seen such beautiful things. To find oneself placed in their midst. Choiceless. I returned there yesterday and stood again upon the mountain." — Maggie Nelson, [Bluets](https://thecheapestuniversity.org/wp-content/themes/TCU/j/pdfjs/web/viewer.html?file=https://thecheapestuniversity.org/wp-content/uploads/2016/12/maggie-nelson-bluets.pdf)
 
 "For ever we come, for ever we go;
 \[...\]
