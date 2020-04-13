@@ -229,6 +229,12 @@ to look
 at your face,
 just see it." — Lizzy Mazzarella
 
+"The lotus flower
+Is unstained by mud;
+This single dewdrop,
+Just as it is,
+Manifests the real body of truth." — Ikkyu
+
 "In the chamber of emptiness a light shines and joy is here to stay." — Chuang Tzu 
 
 "The morn of blessedness hath dawned. Morn? No, tis 
