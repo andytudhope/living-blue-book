@@ -210,6 +210,8 @@ values:
         path: gathering.html
       - title: Open Earth
         path: open_earth.html
+      - title: Trinity Talks
+        path: trinity_talks.html
       - title: The Kramat
         path: kramat.html
 
