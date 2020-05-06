@@ -156,7 +156,9 @@ Heaven lies about us in our infancy!" — William Wordsworth
 
 "Whether you succeed or not is irrelevant — there is no such thing. Making your unknown known is the important thing — and keeping the unknown always beyond you." — Georgia O'Keefe
 
-"We are not particularly interested in spreading the teachings, but we are interested in making use of them and putting them into effect."  — Chögyam Trungpa
+"We are not particularly interested in spreading the teachings, but we are interested in making use of them and putting them into effect." — Chögyam Trungpa
+
+"I regard consciousness as fundamental. I regard matter as derivative from consciousness. We cannot get behind consciousness. Everything that we talk about, everything that we regard as existing, postulates consciousness." — Max Planck
 
 "The Sea
 Will be the Sea
@@ -164,6 +166,16 @@ Whatever the drop's philosophy." — Farīd ud-Dīn ʿAṭṭār
 
 "When I reached Him I saw that His remembering of me preceded my remembrance of Him." — Bâyezîd Bistamî
 
+"I am not I.
+                   I am this one
+walking beside me whom I do not see,
+whom at times I manage to visit,
+and whom at other times I forget;
+who remains calm and silent while I talk,
+and forgives, gently, when I hate,
+who walks where I am not,
+who will remain standing when I die." — Juan Ramón Jiménez  
+  
 "Know that when you learn to lose yourself, you will reach the Beloved. There is no other lesson to be learnt, and more than this is not known by me." — Sheikh Abdullah Ansari of Herat
 
 "Go, go, go, said the bird: human kind
@@ -334,7 +346,7 @@ what you travel around wishing to find,
 lose yourself as lovers lose themselves,
 and you'll be that." — Farīd ud-Dīn ʿAṭṭār
 
-"Longing is a living prayer of love \[...\] In the ocean of love's longing, the ego is doomed. The primal cry of the soul takes the lover beyond this world and the next, straight to Him who is our deepest desire \[...\] The secret of love's union is the He unites with Himself in the heart of His lover. The lover who gives himself to longing participates in this mystery \[...\] Love is both the longing for union and the bliss of union. Love is the sadness of separation and the knowledge that there is no separation." — Llewellyn Vaughan-Lee
+"Longing is a living prayer of love \[...\] In the ocean of love's longing, the ego is doomed. The primal cry of the soul takes the lover beyond this world and the next, straight to Him who is our deepest desire \[...\] The secret of love's union is that He unites with Himself in the heart of His lover. The lover who gives himself to longing participates in this mystery \[...\] Love is both the longing for union and the bliss of union. Love is the sadness of separation and the knowledge that there is no separation." — Llewellyn Vaughan-Lee
 
 "I was passionate,
 filled with longing,
@@ -363,7 +375,7 @@ And you are here, my love, my all!" — Swami Vivekananda
 "Love has come and it flows like blood beneath my skin, through my veins.
 It has emptied me of myself and filled me with the Beloved.
 The Beloved has penetrated every cell of my body.
-Of myself there remains only a name, everything else is Him." — — Jalāl ad-Dīn Muhammad Rūmī
+Of myself there remains only a name, everything else is Him." — Jalāl ad-Dīn Muhammad Rūmī
 
 "I want union with Him and He wants separation;
 thus I leave what I want so His wish comes true." — al-Ghazzâlî
@@ -431,19 +443,7 @@ Let us go and make our visit." — T. S. Eliot
 To wonder, “Do I dare?” and, “Do I dare?”" — T. S. Eliot
 
 "What was that mass of waters? Nought but the waves.
-What was that wave? Nought but the sea." — Jalāl ad-Dīn Muhammad Rūmī
-
-"See the world as yourself
-Have faith in the way things are
-Love the world as yourself
-Then you can care for all things." — Tao Te Ching XIII
-
-"When my mind was cleansed of impurities,
-like a mirror of its dust and dirt,
-I recognized the Self in me:
-When I saw Him dwelling in me,
-I realized that He was the Everything
-and I was nothing." — Lalla-Ded
+What was that wave? Nought but the sea." — Jalāl ad-Dīn Muhammad Rūmi
 
 "A mirror remains that can't be broken
 because it faces nothing,
@@ -452,11 +452,23 @@ because its inside everything.
 Perhaps at certain heights
 questions and answers are exactly the same." — Roberto Juarroz
 
+"When my mind was cleansed of impurities,
+like a mirror of its dust and dirt,
+I recognized the Self in me:
+When I saw Him dwelling in me,
+I realized that He was the Everything
+and I was nothing." — Lalla-Ded
+
 "The ancient alchemist's art was to transmute the base lead of the self into the golden soul through practical spiritual disciplines, thereby spiritualising matter and materialising spirit - the perfect blending of lights." — Shaykh Fadhlalla Haeri
+
+"See the world as yourself
+Have faith in the way things are
+Love the world as yourself
+Then you can care for all things." — Tao Te Ching XIII
 
 "_Vos estis tam sancti sicut vultis_" — Ruysbroeck
 
-_omnis mundi creatura_
+"_omnis mundi creatura_
 _quasi liber et pictura_
 _nobis est in speculum_
 _nostrae vitae, nostrae mortis,_
@@ -731,6 +743,8 @@ Of your own Being!" — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
 "This was my master's way. He not only knew how to read the great book of nature, but also knew the way monks read the books of Scripture, and how they thought through them \[...\] His explanation, moreover, seemed to me at that point so obvious that my humiliation at not having discovered it by myself was surpassed only by my pride at now being a sharer of it, and I was almost congratulating myself on my insight. Such is the power of truth that, like good, it is its own propagator." — Umberto Eco
 
+"The human form is the greatest gift of Allah in His creation. It is the Book which He has inscribed with His own hand, it is the totality of all of the forms of the universe, it is the sum total of the preserved tablets, it is the testimony to all that is unseen, it is the Straight Path to all spiritual knowledge, it is the bridge which is extended between the Garden and the Fire and the banner of Unity, it is the basis of all knowledge and the foundation of the knowledge of the Hereafter." — Hadith Qudsi
+
 "A quiet academic career did not attract me. I felt a yearning to come into more intimate grips with life, to enter it without any of those carefully contrived, artificial defences which security-minded people love to build up around themselves; and I wanted to find by myself an approach to the spiritual order of things which, I knew, must exist." — Muhammad Asad
 
 "There is no greater gift a people can be given than that they live a life touched with fable." — Ben Okri
@@ -743,7 +757,7 @@ Of your own Being!" — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
 "And in that moment, he was finally able to accept it all. In the deepest recesses of his soul, Tsukuru Tanazaki understood. One heart is not connected to another through harmony alone. They are, instead, linked deeply through their wounds. Pain linked to pain, fragility to fragility. There is no silence without a cry of grief, no forgiveness without bloodshed, no acceptance without a passage through acute loss. That is what lies at the root of true harmony." — Haruko Murakami
 
-"I can testify that it provides an example of how blue gives way to farkness - and then how, without warning, the darkness grows up into a cone of light." — Maggie Nelson
+"I can testify that it provides an example of how blue gives way to darkness - and then how, without warning, the darkness grows up into a cone of light." — Maggie Nelson
 
 "Because this unfamiliar world is so entirely different from all that you have known at home; because it offers so much that is strikingly strange in image and sound, it brushes you sometimes, if you permit yourself to be attentive, with a momentary remembrance of things long known and long forgotten: those intangible realities of your own life. And when this breath of remembrance reaches you from beyond the abyss that separates your world from that other, that unfamiliar one, you ask yourself whether it is not perhaps herein - and only herein - that the meaning of all wandering lies: to become aware of the strangeness of the world around you and thereby reawaken to your own, personal, forgotten reality." — Muhammad Asad
 
