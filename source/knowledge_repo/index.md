@@ -90,6 +90,8 @@ I have seen the moment of my greatness flicker,
 And I have seen the eternal Footman hold my coat, and snicker,
 And in short, I was afraid." — T. S. Eliot
 
+"Oneness is like an ocean - though full of the blood of dying forms, from it rise a thousand wild waves \[...\] yet it never becomes less even by a single drop." — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
+
 "And indeed this, your religion, is one religion, and I am your Lord, so fear Me." — Qur'an 23:52
 
 "Know thou that fear and hope are one." — [Hakim Abul-Majd Majdūd ibn Ādam Sanā'ī Ghaznavi](https://mypoeticside.com/show-classic-poem-24867)
@@ -177,6 +179,8 @@ who walks where I am not,
 who will remain standing when I die." — Juan Ramón Jiménez  
   
 "Know that when you learn to lose yourself, you will reach the Beloved. There is no other lesson to be learnt, and more than this is not known by me." — Sheikh Abdullah Ansari of Herat
+
+"You and I are the patterns cast by the latticework of the lamp of existence." — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
 
 "Go, go, go, said the bird: human kind
 Cannot bear very much reality.
@@ -294,6 +298,8 @@ Of Being from the Well amid the Waste--
 And Lo!--the phantom Caravan has reach'd
 The Nothing it set out from--Oh, make haste!" — Omar Khayyam
 
+"As long as the solidity of your existence remains standing, the answer to the words 'show me' is: 'You will not see Me'." — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
+
 "Die into your nothingness and you will live by the light of the eternal soul." — Shaykh Fadhlalla Haeri
 
 "0 joy! that in our embers
@@ -358,11 +364,19 @@ that the Truthful One
 found me,
 I was at home." — Lalla-Ded
 
+"As the existence of everything is one and the same, everything testifies to the oneness of the Real." — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
+
 "Say: All is from Allah..." — Qur'an 4:78
 
 "Was it not I that summoned thee to My service?
 Did I not make thee busy with my name?
 Thy calling 'Allah!' was My 'Here I am.'" — Jalāl ad-Dīn Muhammad Rūmī
+
+"All creation is sustained by that Name and is in constant praise of that Name.  
+Eash issues from it in the beginning and each leaves by it on its return.
+Although it passes from door to door in its life, it thus leaves by the same door it entered.  
+Thus you may know all the names, since your existence is an image reflected from these names.  
+Power and knowledge and will are all manifest in you, oh slave! Oh man of bliss!" — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī 
 
 "A flash illumined all my soul;
 The heart of my heart opened wide.
@@ -612,6 +626,8 @@ He always Knows that He is the only one
 Who should ever be put on trial." — Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī
 
 "For him the world is non-existent, and he will not study the unreal; like the compass he circles ever round a point, on which his thoughts, actions, and very being depend: he cannot stray from his course any more than a star can leave its orbit. Hence all mystical writings are the record of one spiritual experience and are pervaded by a single overpowering emotion. The language of all mystics is the same. How often do Law, Emerson, and Shelley remind us of the Masnavi!" — Reynold Nicholson
+
+"You are the core of the world, its center in every aspect knows that you yourself are the spirit of the cosmos." — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī
 
 "A conjuror came visitng with rabbits up his sleeve
 A yogi put us on the mat and showed us how to breathe
