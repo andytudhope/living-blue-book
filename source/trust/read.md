@@ -10,7 +10,7 @@ title: Read
 and the rule of both worlds were given in my hands,
 I would not give for them that single sigh which rises
 at morning-time from the depth of my soul
-in remembering my longing for Him." — Bâyezîd Bistmî
+in remembering my longing for Him." — Bâyezîd Bistâmî
 
 ---
 

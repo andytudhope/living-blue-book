@@ -5,9 +5,9 @@ title: Eternal Flame
 
 # Eternal Flame
 
-It was only this morning that I understood
+This morning I understood
 what really keeps this fire burning,
-after pruning my rose bush of desire
+after pruning this rose bush of desire
 then sweeping it up, along with all
 my expectations and ambition,
 and pushing them into the flames
