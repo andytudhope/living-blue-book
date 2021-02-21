@@ -57,4 +57,4 @@ that night, nestled in the Himalayas.
 
 [We have come](https://www.youtube.com/watch?v=yC33reo0Cz4 "To Mount Zion")
 
-[Eyes to serve, hands to learn](https://www.youtube.com/watch?v=jiE8YK-iHXY "More Red Rocks Mumford!")
+[Eyes to serve, hands to learn](https://www.youtube.com/watch?v=uAFWbViwgQw "More Red Rocks Mumford!")

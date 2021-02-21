@@ -7,7 +7,7 @@ title: Eternal Flame
 
 This morning I understood
 what really keeps this fire burning,
-after pruning this rose bush of desire
+after pruning desire's rosy head
 then sweeping it up, along with all
 my expectations and ambition,
 and pushing them into the flames

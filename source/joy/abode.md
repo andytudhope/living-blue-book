@@ -3,7 +3,7 @@ id: abode
 title: Abode
 ---
 
-# abode
+# Abode
 
 The water waves in wide ripples
 across the bay before me, 

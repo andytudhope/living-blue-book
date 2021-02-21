@@ -22,7 +22,7 @@ this glory outside time.
 
 #### Traces
 
-[Laughing](http://www.wingedheart.org/Hafiz%20Laughter.htm)
+[Laughing](https://sillysutras.com/laughter-quotes-and-hafiz-poem/)
 
 [We exist](https://www.youtube.com/watch?v=P1NYQJLqERk "Sleeping At Last")
 

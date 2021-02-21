@@ -42,6 +42,6 @@ just right.
 
 #### Traces
 
-[For the patron saint of music](https://www.youtube.com/watch?v=YYmaznpLMz8)
+[For the patron saint of music](https://www.youtube.com/watch?v=RszC42mAOtU)
 
 [And her golden compass](https://www.poetseers.org/the-poetseers/hafiz/i-heard-god-laughing-hafiz/a-golden-compass/)
