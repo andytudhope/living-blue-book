@@ -56,4 +56,4 @@ remembering.
 
 [Go way down](https://www.youtube.com/watch?v=sZ5SI6n1Ljs "Kaleo Live")
 
-[To how this grace thing works](https://www.youtube.com/watch?v=KXs5OpvsE90 "Roll Away Your Stone")
+[To how this grace thing works](https://www.youtube.com/watch?v=xUsFijbyouo "Roll Away Your Stone")
